@@ -77,7 +77,7 @@ We utilize quantity-dense math word problems (Q-MWP) to assess the quantitative 
 conda create -n dimperc python==3.10
 conda activate dimperc
 
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 pip install -e .
 ```
