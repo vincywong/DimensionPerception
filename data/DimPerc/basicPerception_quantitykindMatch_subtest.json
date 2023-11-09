@@ -1,0 +1,122 @@
+[
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“比热容体积”的？\nOptions: (A)mbar/K (B)焦耳每千克开尔文立方米 (C)lbf/in2·°F (D)bar/K",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"SpecificHeatVolume\"?\nOptions: (A)mbar/K (B)Joule per Kilogram Kelvin Cubic Metre (C)lbf/in2·°F (D)Bar Per Kelvin",
+        "quantitykind": "SpecificHeatVolume",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“质量”的？\nOptions: (A)磅华氏度 (B)磅每英寸 (C)担 (D)kg/mm",
+        "question_en": null,
+        "quantitykind": "Mass",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“平衡常数”的？\nOptions: (A)C·m (B)无单位的 (C)纳摩尔每微摩尔每天 (D)微亨利每米",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"EquilibriumConstant\"?\nOptions: (A)Coulomb Metre (B)Unitless (C)Nanomoles per micromole per day (D)Microhenry Per Metre",
+        "quantitykind": "EquilibriumConstant",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“数密度”的？\nOptions: (A)每微摩尔每升 (B)微摩尔每升 (C)数字每纳升 (D)微克每毫升",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"NumberDensity\"?\nOptions: (A)Reciprocal micromole per litre (B)μmol/l (C)Number per nanolitre (D)Micrograms per millilitre",
+        "quantitykind": "NumberDensity",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“摩尔旋光度数”的？\nOptions: (A)十公亩 (B)弧度平方米每摩尔 (C)立方米每摩尔 (D)dm3/mol",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"MolarOpticalRotatoryPower\"?\nOptions: (A)Decare (B)rad·m2/mol (C)Cubic Metre per Mole (D)dm3/mol",
+        "quantitykind": "MolarOpticalRotatoryPower",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“光合作用光通量密度”的？\nOptions: (A)微摩尔每平方米 (B)摩尔每平方米 (C)μm/l·d (D)μmol/m2·s",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"PhotosyntheticPhotonFluxDensity\"?\nOptions: (A)Micromoles per square metre (B)mol/m2 (C)Micromoles per litre per day (D)μmol/m2·s",
+        "quantitykind": "PhotosyntheticPhotonFluxDensity",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“光强”的？\nOptions: (A)cd (B)焦耳每四次的米 (C)lm·s (D)btu/s·ft·°Ra",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"LuminousIntensity\"?\nOptions: (A)cd (B)Joule per Quartic Metre (C)lm·s (D)British Thermal Unit (international Table) Per Second Foot Degree Rankine",
+        "quantitykind": "LuminousIntensity",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“电流”的？\nOptions: (A)kC (B)At/m (C)A/°C (D)",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"CurrentLinkage\"?\nOptions: (A)KiloCoulomb (B)Ampere Turn per Metre (C)A/°C (D)Ampere",
+        "quantitykind": "CurrentLinkage",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“质量活度”的？\nOptions: (A)数字每百克 (B)Bq/kg (C)摩尔每克每小时 (D)数字每毫克",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"MassicActivity\"?\nOptions: (A)Number per 100 grams (B)Bq/kg (C)Moles per gram per hour (D)Number per milligram",
+        "quantitykind": "MassicActivity",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“视频帧率”的？\nOptions: (A)兆赫兹米 (B)帧每秒 (C)每米每秒 (D)mBq/kg",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"VideoFrameRate\"?\nOptions: (A)MHz·m (B)fps (C)Reciprocal metre per second (D)mBq/kg",
+        "quantitykind": "VideoFrameRate",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“质量比”的？\nOptions: (A)微克每克 (B)rad·m2/mol (C)纳摩尔每微摩尔每天 (D)每摩尔",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"MassRatio\"?\nOptions: (A)Micrograms per gram (B)Radian Square Metre per Mole (C)Nanomoles per micromole per day (D)Reciprocal Mole",
+        "quantitykind": "MassRatio",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“声波暴露级”的？\nOptions: (A)瓦特每平方米每相反的米每球面度 (B)mV (C)分贝 (D)V/m2",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"SoundExposureLevel\"?\nOptions: (A)Watts per square metre per inverse metre per steradian (B)mV (C)Decibel (D)V/m2",
+        "quantitykind": "SoundExposureLevel",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“相位系数”的？\nOptions: (A)每纳米 (B)每开尔文 (C)lbm/in (D)A/m",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"PhaseCoefficient\"?\nOptions: (A)Reciprocal Nanometre (B)Reciprocal Metre Kelvin (C)Pound per Inch (D)A/m",
+        "quantitykind": "PhaseCoefficient",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“电流”的？\nOptions: (A)库仑每千克秒 (B)aC (C)μA (D)kA/m",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"ElectricCurrent\"?\nOptions: (A)C/kg·s (B)AttoCoulomb (C)microampere (D)kA/m",
+        "quantitykind": "ElectricCurrent",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“热能量”的？\nOptions: (A)牛顿米次级品每弧度 (B)ft·lbf·s (C)马力 (D)卡路里",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"ThermalEnergy\"?\nOptions: (A)Newton metre seconds per radian (B)ft·lbf·s (C)HP (D)International Table calorie",
+        "quantitykind": "ThermalEnergy",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“电容率”的？\nOptions: (A)statF (B)abF (C)μS/m (D)pF/m",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"Permittivity\"?\nOptions: (A)Statfarad (B)Abfarad (C)μS/m (D)pF/m",
+        "quantitykind": "Permittivity",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“电阻”的？\nOptions: (A)kV (B)毫欧姆 (C)普朗克伏特 (D)欧姆米",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"Resistance\"?\nOptions: (A)kV (B)Milliohm (C)Planck Volt (D)Ohm Metre",
+        "quantitykind": "Resistance",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“光合作用光通量密度”的？\nOptions: (A)皮摩尔每升每小时 (B)毫摩尔每平方米 (C)微摩尔每平方米每秒 (D)mol/m2·s·m·sr",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"PhotosyntheticPhotonFluxDensity\"?\nOptions: (A)Picomoles per litre per hour (B)Millimoles per square metre (C)Micromoles per square metre per second (D)mol/m2·s·m·sr",
+        "quantitykind": "PhotosyntheticPhotonFluxDensity",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“时间散射截面”的？\nOptions: (A)贝克勒尔每平方米 (B)克每平方厘米 (C)mPa·s (D)Pa·s/m",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"ssPerAreaTi\"?\nOptions: (A)Becquerel per Square Metre (B)Gram Per Square Centimetre (C)Millipascal Second (D)Pa·s/m",
+        "quantitykind": "ssPerAreaTi",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位是度量“机械迁移率”的？\nOptions: (A)Ohm-m2/m (B)微伏 (C)兆欧姆 (D)abH",
+        "question_en": "Which of the following 4 units of quantity is the measurement of \"MechanicalMobility\"?\nOptions: (A)Ohm-m2/m (B)μV (C)Mohm (D)abH",
+        "quantitykind": "MechanicalMobility",
+        "ans": "(C)"
+    }
+]

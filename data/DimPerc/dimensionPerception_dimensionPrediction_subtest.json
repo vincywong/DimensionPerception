@@ -1,0 +1,102 @@
+[
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ [MASK]采用粤语拼音zeng1 jing6 yi3进行发音，非常准确地表达了方言之美。”\nOptions: (A)kg2/m·s2 (B)mol·kg/m·s2 (C)kg·K/m·s2 (D)kg/m·s2",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The [MASK] pronunciation in Cantonese using zeng1 jing6 yi3 is a very accurate expression of the beauty of dialects..\"\nOptions: (A)kg2/m·s2 (B)mol·kg/m·s2 (C)kg·K/m·s2 (D)kg/m·s2",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ 蚌埠皖北国际机场的飞行区等级为4C，预留[MASK]，以保障航班的安全起降。”\nOptions: (A)s (B)A·kg·s (C)A2·s (D)A·s",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The flight area level of Bengbu Wanbei International Airport is 4C, with reserved [MASK], to ensure the safety of flight takeoff and landing..\"\nOptions: (A)s (B)A·kg·s (C)A2·s (D)A·s",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“这种塑料除味剂的表观密度为[MASK]，使用后能够快速去除塑料制品的异味。”\nOptions: (A)m2/kg·K (B)m2/kg (C)m3/kg (D)mol·m2/kg",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The apparent density of this plastic deodorizer is [MASK], which can quickly remove the odor of plastic products after use..\"\nOptions: (A)m2/kg·K (B)m2/kg (C)m3/kg (D)mol·m2/kg",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“该家庭选用海尔jsq20-tfsra空调，能够满足室内热负荷需求，最大热量输出可达[MASK]。”\nOptions: (A)mol·m2·kg/s3 (B)m2·kg/s2 (C)m2·kg/s3 (D)m2·kg/cd·s3",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"This family chooses Haier jsq20-tfsra air conditioner, which can meet the indoor heat load demand, and the maximum heat output can reach [MASK]..\"\nOptions: (A)mol·m2·kg/s3 (B)m2·kg/s2 (C)m2·kg/s3 (D)m2·kg/cd·s3",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“该服务器主板采用XI102XE-HD，提供强大的主机接口支持，同时支持[MASK]接口，满足高速数据传输需求。”\nOptions: (A)m (B)m·K (C)m/mol (D)m/cd",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The server motherboard uses XI102XE-HD, providing powerful host interface support, while also supporting [MASK] interfaces to meet high-speed data transmission needs..\"\nOptions: (A)m (B)m·K (C)m/mol (D)m/cd",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ 美瑞马士基号货船的载重量高达[MASK]，能够满足大型物流运输的需求。”\nOptions: (A)kg/A (B)kg (C)kg/s (D)kg/K",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The carrying capacity of the Mermaid Master Jihao cargo ship is as high as [MASK], which can meet the needs of large-scale logistics transportation..\"\nOptions: (A)kg/A (B)kg (C)kg/s (D)kg/K",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ 该公司的设备使用gps网络时钟来保证时间同步，同时其脉冲宽度为[MASK]，确保高精度计时要求得以满足。”\nOptions: (A)kg/m·s (B)kg/m (C)kg/m·s2 (D)kg/m2·s",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The company's equipment uses GPS network clocks to ensure time synchronization, and its pulse width is [MASK], ensuring the requirements for high-precision timing are met..\"\nOptions: (A)kg/m·s (B)kg/m (C)kg/m·s2 (D)kg/m2·s",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ 该材料在马丁耐热温度下，经过适当的升温速度，可以承受[MASK]的温度增幅。”\nOptions: (A)K/mol·s (B)K/s (C)K (D)A·K/s",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"This material can withstand a temperature increase of [MASK] at Martin's heat resistance temperature with an appropriate heating rate..\"\nOptions: (A)K/mol·s (B)K/s (C)K (D)A·K/s",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“该实验室使用盐密测试仪进行水样的电导率检测，可测量范围为[MASK]，保证测试结果准确。”\nOptions: (A)A2·s4/m3·kg (B)mol·A2·s3/m3·kg (C)A2·cd·s3/m3·kg (D)A2·s3/m3·kg",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The laboratory uses a salinity meter to detect the conductivity of water samples, with a measurement range of [MASK], ensuring accurate test results..\"\nOptions: (A)A2·s4/m3·kg (B)mol·A2·s3/m3·kg (C)A2·cd·s3/m3·kg (D)A2·s3/m3·kg",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ 延河（黄河支流）的平均比降为[MASK]，对河道的流速和水流量起到重要影响。”\nOptions: (A)s· (B) (C)/s (D)/A",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The average gradient of the Yanshui River (a branch of the Yellow River) is [MASK], which has an important influence on the velocity and flow rate of the river..\"\nOptions: (A)s· (B) (C)/s (D)/A",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ 多彩科技阳光骄子DLM-316BP鼠标的光电感应度很高，达到了[MASK]，可以提供更加流畅的使用体验。”\nOptions: (A)cd/A (B)cd/K (C)A·cd (D)cd",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The optical sensitivity of the Colorful Technology Sunshine DLM-316BP mouse is very high, reaching [MASK], which can provide a smoother user experience..\"\nOptions: (A)cd/A (B)cd/K (C)A·cd (D)cd",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“这片花岗石平板的抗压强度达到了[MASK]，非常适合用于建筑材料。”\nOptions: (A)kg/mol·m·s2 (B)kg/m·s2 (C)kg/m2·s2 (D)m-1·s-2",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The compressive strength of this granite slab reaches [MASK], making it very suitable for use as a building material..\"\nOptions: (A)kg/mol·m·s2 (B)kg/m·s2 (C)kg/m2·s2 (D)m-1·s-2",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ 玉梁渠是一项国家重要的水利工程，其灌溉面积达[MASK]，为当地农业生产带来丰沛的水源。”\nOptions: (A)m2 (B)m2·K (C)m2·s (D)mol·m2",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The Yuliang Channel is a nationally important hydraulic engineering project, and its irrigation area reaches [MASK], providing abundant water sources for local agricultural production..\"\nOptions: (A)m2 (B)m2·K (C)m2·s (D)mol·m2",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ tp-link tl-hp5mu支持传速速率高达[MASK]，是企业网络中高效稳定的选择。”\nOptions: (A)A/s (B)m/s (C)cd/s (D)s-1",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The TP-Link TL-HP5MU supports transmission speeds of up to [MASK], making it an efficient and stable choice for enterprise networks..\"\nOptions: (A)A/s (B)m/s (C)cd/s (D)s-1",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ 在这个市场上，两千石粮食的数量可以换算成一万斤，即[MASK]，非常惊人。”\nOptions: (A)kg/mol (B)m·kg (C)kg/m (D)kg",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"In this market, the quantity of 2,000 stones of grain can be converted to 10,000 catties, which is [MASK], very astonishing..\"\nOptions: (A)kg/mol (B)m·kg (C)kg/m (D)kg",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ 该公司使用的单晶硅棒，其碳含量不超过[MASK]，确保生产高品质的晶体管。”\nOptions: (A)A/m2 (B)A/m3 (C)A·K/m2 (D)A/m2·cd",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The single crystal silicon rods used by the company have a carbon content of no more than [MASK], ensuring the production of high-quality transistors..\"\nOptions: (A)A/m2 (B)A/m3 (C)A·K/m2 (D)A/m2·cd",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“长城l2282显示屏拥有大可视面积，分别为[MASK]，让用户能够享受更为宽广的视野。”\nOptions: (A)m/s2 (B)m·K/s (C)m/s (D)m/kg·s",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The Great Wall L2282 display has a large viewing area of [MASK], allowing users to enjoy a wider field of vision..\"\nOptions: (A)m/s2 (B)m·K/s (C)m/s (D)m/kg·s",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ 研究表明，磷酸氧钛钾晶体的比热为[MASK]，这一性质使其在热传导领域拥有广泛的应用。”\nOptions: (A)m2/s2 (B)A·m2/s2 (C)m2/A·s2 (D)m3/s2",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"Research shows that the specific heat of potassium titanate phosphate crystals is [MASK], which makes it widely used in the field of thermal conduction..\"\nOptions: (A)m2/s2 (B)A·m2/s2 (C)m2/A·s2 (D)m3/s2",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“ 龟岛酒店的房价非常昂贵，一般为[MASK]，不过它的服务和设施也绝对值得这个价钱。”\nOptions: (A)/K (B)/mol (C) (D)/A",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The room rates at Turtle Island Hotel are very expensive, usually around [MASK], but its services and facilities are definitely worth the price..\"\nOptions: (A)/K (B)/mol (C) (D)/A",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下句子中,[MASK]部分是一个表述尺度的数量，请你预测它的SI基本单位是什么？\n句子:“这款发泡葡萄酒的酸度恰到好处，达到了[MASK]的标准，带来清新爽口的口感。”\nOptions: (A)kg/m3 (B)kg/m2 (C)kg·s/m3 (D)kg/m4",
+        "question_en": " In the following sentence, [MASK] is a quantity that describes a scale. Please predict what its SI base unit is?\nSentence: \"The acidity of this sparkling wine is just right, meeting the standard of [MASK], which brings a refreshing and crisp taste..\"\nOptions: (A)kg/m3 (B)kg/m2 (C)kg·s/m3 (D)kg/m4",
+        "ans": "(A)"
+    }
+]

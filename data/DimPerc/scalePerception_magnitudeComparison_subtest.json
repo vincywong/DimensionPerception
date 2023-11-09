@@ -1,0 +1,142 @@
+[
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1坎德拉每平方米 (B)1ft·L (C)1朗伯 (D)1sb",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 candela per square metre (B)1 ft·L (C)1 Lambert (D)1 Stilb",
+        "reason_zh": "这四个数量都是度量亮度的，他们的对应的基本单位是坎德拉每平方米。为了方便比较，需要转换到统一单位下:\n(A) 1坎德拉每平方米等于1.0 坎德拉每平方米\n(B) 1ft·L等于3.4262591 坎德拉每平方米\n(C) 1朗伯等于3183.09886 坎德拉每平方米\n(D) 1sb等于10000.0 坎德拉每平方米\n因此，这四个数量中最大的是1sb。Answer:D",
+        "reason_en": "These four quantities are all measurements of Luminance, and their corresponding basic units are candela per square metre. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1candela per square metre equals 1.0 candela per square metre.\n(B) 1ft·L equals 3.4262591 candela per square metre.\n(C) 1Lambert equals 3183.09886 candela per square metre.\n(D) 1Stilb equals 10000.0 candela per square metre.\nTherefore, the largest of these four quantities is {maxval}. Answer:D",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1摄氏度 (B)1°Ra (C)1K (D)1m°C",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 Degree Celsius (B)1 Degree Rankine (C)1 K (D)1 m°C",
+        "reason_zh": "这四个数量都是度量温度的，他们的对应的基本单位是开尔文。为了方便比较，需要转换到统一单位下:\n(A) 1摄氏度等于0.0 开尔文\n(B) 1°Ra等于0.555555556 开尔文\n(C) 1K等于1.0 开尔文\n(D) 1m°C等于0.001 开尔文\n因此，这四个数量中最大的是1K。Answer:C",
+        "reason_en": "These four quantities are all measurements of Temperature, and their corresponding basic units are Kelvin. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1Degree Celsius equals 0.0 Kelvin.\n(B) 1Degree Rankine equals 0.555555556 Kelvin.\n(C) 1K equals 1.0 Kelvin.\n(D) 1m°C equals 0.001 Kelvin.\nTherefore, the largest of these four quantities is {maxval}. Answer:C",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1平方 (B)1平方英里 (C)1yd2 (D)1in2",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 Square Metre (B)1 Square Mile (C)1 yd2 (D)1 Square Inch",
+        "reason_zh": "这四个数量都是度量面积的，他们的对应的基本单位是平方米。为了方便比较，需要转换到统一单位下:\n(A) 1平方等于1.0 平方米\n(B) 1平方英里等于2589988.11 平方米\n(C) 1yd2等于0.83612736 平方米\n(D) 1in2等于0.00064516 平方米\n因此，这四个数量中最大的是1平方英里。Answer:B",
+        "reason_en": "These four quantities are all measurements of Area, and their corresponding basic units are Square Metre. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1Square Metre equals 1.0 Square Metre.\n(B) 1Square Mile equals 2589988.11 Square Metre.\n(C) 1yd2 equals 0.83612736 Square Metre.\n(D) 1Square Inch equals 0.00064516 Square Metre.\nTherefore, the largest of these four quantities is {maxval}. Answer:B",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1GHz (B)1每分钟 (C)1每月 (D)1每小时的倒数",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 GHz (B)1 Reciprocal Minute (C)1 Reciprocal Month (D)1 Reciprocal Hour",
+        "reason_zh": "这四个数量都是度量频率的，他们的对应的基本单位是赫兹。为了方便比较，需要转换到统一单位下:\n(A) 1GHz等于1000000000.0 赫兹\n(B) 1每分钟等于60.0 赫兹\n(C) 1每月等于3.92e-07 赫兹\n(D) 1每小时的倒数等于360.0 赫兹\n因此，这四个数量中最大的是1GHz。Answer:A",
+        "reason_en": "These four quantities are all measurements of Frequency, and their corresponding basic units are Hertz. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1GHz equals 1000000000.0 Hertz.\n(B) 1Reciprocal Minute equals 60.0 Hertz.\n(C) 1Reciprocal Month equals 3.92e-07 Hertz.\n(D) 1Reciprocal Hour equals 360.0 Hertz.\nTherefore, the largest of these four quantities is {maxval}. Answer:A",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1静电欧姆 (B)1欧姆 (C)1毫欧姆 (D)1kΩ",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 Statohm (B)1 Ohm (C)1 Milliohm (D)1 kΩ",
+        "reason_zh": "这四个数量都是度量电阻的，他们的对应的基本单位是欧姆。为了方便比较，需要转换到统一单位下:\n(A) 1静电欧姆等于899000000000.0 欧姆\n(B) 1欧姆等于1.0 欧姆\n(C) 1毫欧姆等于0.001 欧姆\n(D) 1kΩ等于1000.0 欧姆\n因此，这四个数量中最大的是1静电欧姆。Answer:A",
+        "reason_en": "These four quantities are all measurements of Resistance, and their corresponding basic units are Ohm. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1Statohm equals 899000000000.0 Ohm.\n(B) 1Ohm equals 1.0 Ohm.\n(C) 1Milliohm equals 0.001 Ohm.\n(D) 1kΩ equals 1000.0 Ohm.\nTherefore, the largest of these four quantities is {maxval}. Answer:A",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1千摩尔 (B)1毫分子 (C)1mol (D)1μmol",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 kmol (B)1 Millimole (C)1 mol (D)1 Micromole",
+        "reason_zh": "这四个数量都是度量物质的量的，他们的对应的基本单位是摩尔。为了方便比较，需要转换到统一单位下:\n(A) 1千摩尔等于1000.0 摩尔\n(B) 1毫分子等于0.001 摩尔\n(C) 1mol等于1.0 摩尔\n(D) 1μmol等于1e-06 摩尔\n因此，这四个数量中最大的是1千摩尔。Answer:A",
+        "reason_en": "These four quantities are all measurements of AmountOfSubstance, and their corresponding basic units are Mole. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1kmol equals 1000.0 Mole.\n(B) 1Millimole equals 0.001 Mole.\n(C) 1mol equals 1.0 Mole.\n(D) 1Micromole equals 1e-06 Mole.\nTherefore, the largest of these four quantities is {maxval}. Answer:A",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1度 (B)1K (C)1m°C (D)1兰氏度",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 °C (B)1 K (C)1 Millidegree Celsius (D)1 °Ra",
+        "reason_zh": "这四个数量都是度量温度的，他们的对应的基本单位是开尔文。为了方便比较，需要转换到统一单位下:\n(A) 1度等于0.0 开尔文\n(B) 1K等于1.0 开尔文\n(C) 1m°C等于0.001 开尔文\n(D) 1兰氏度等于0.555555556 开尔文\n因此，这四个数量中最大的是1K。Answer:B",
+        "reason_en": "These four quantities are all measurements of Temperature, and their corresponding basic units are Kelvin. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1°C equals 0.0 Kelvin.\n(B) 1K equals 1.0 Kelvin.\n(C) 1Millidegree Celsius equals 0.001 Kelvin.\n(D) 1°Ra equals 0.555555556 Kelvin.\nTherefore, the largest of these four quantities is {maxval}. Answer:B",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1拍库仑 (B)1e (C)1YC (D)1kC",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 PC (B)1 e (C)1 YottaCoulomb (D)1 kC",
+        "reason_zh": "这四个数量都是度量电荷量的，他们的对应的基本单位是库仑。为了方便比较，需要转换到统一单位下:\n(A) 1拍库仑等于1000000000000000.0 库仑\n(B) 1e等于16.02176565 库仑\n(C) 1YC等于1e+24 库仑\n(D) 1kC等于1000.0 库仑\n因此，这四个数量中最大的是1YC。Answer:C",
+        "reason_en": "These four quantities are all measurements of ElectricCharge, and their corresponding basic units are Coulomb. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1PC equals 1000000000000000.0 Coulomb.\n(B) 1e equals 16.02176565 Coulomb.\n(C) 1YottaCoulomb equals 1e+24 Coulomb.\n(D) 1kC equals 1000.0 Coulomb.\nTherefore, the largest of these four quantities is {maxval}. Answer:C",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1N·m/A (B)1绝对伏特秒 (C)1单位磁极 (D)1磅力英尺每安培",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 N·m/A (B)1 Abvolt Second (C)1 Unit Pole (D)1 Pound Force Foot Per Ampere",
+        "reason_zh": "这四个数量都是度量磁通量的，他们的对应的基本单位是韦伯。为了方便比较，需要转换到统一单位下:\n(A) 1N·m/A等于1.0 韦伯\n(B) 1绝对伏特秒等于1e-08 韦伯\n(C) 1单位磁极等于1.26e-07 韦伯\n(D) 1磅力英尺每安培等于2728.302798 韦伯\n因此，这四个数量中最大的是1磅力英尺每安培。Answer:D",
+        "reason_en": "These four quantities are all measurements of MagneticFlux, and their corresponding basic units are Weber. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1N·m/A equals 1.0 Weber.\n(B) 1Abvolt Second equals 1e-08 Weber.\n(C) 1Unit Pole equals 1.26e-07 Weber.\n(D) 1Pound Force Foot Per Ampere equals 2728.302798 Weber.\nTherefore, the largest of these four quantities is {maxval}. Answer:D",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1毫亨 (B)1电磁亨 (C)1pH (D)1纳亨利",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 mH (B)1 Abhenry (C)1 pH (D)1 nH",
+        "reason_zh": "这四个数量都是度量电感的，他们的对应的基本单位是亨利。为了方便比较，需要转换到统一单位下:\n(A) 1毫亨等于0.001 亨利\n(B) 1电磁亨等于1e-09 亨利\n(C) 1pH等于1e-12 亨利\n(D) 1纳亨利等于1e-09 亨利\n因此，这四个数量中最大的是1毫亨。Answer:A",
+        "reason_en": "These four quantities are all measurements of Inductance, and their corresponding basic units are Henry. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1mH equals 0.001 Henry.\n(B) 1Abhenry equals 1e-09 Henry.\n(C) 1pH equals 1e-12 Henry.\n(D) 1nH equals 1e-09 Henry.\nTherefore, the largest of these four quantities is {maxval}. Answer:A",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1数字每微升 (B)1数字每立方米 (C)1数字每升 (D)1每立方米",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 Number per microlitre (B)1 Number per cubic metre (C)1 Number per litre (D)1 Reciprocal Cubic Metre",
+        "reason_zh": "这四个数量都是度量数密度的，他们的对应的基本单位是每立方米。为了方便比较，需要转换到统一单位下:\n(A) 1数字每微升等于1000000000.0 每立方米\n(B) 1数字每立方米等于1.0 每立方米\n(C) 1数字每升等于1000.0 每立方米\n(D) 1每立方米等于1.0 每立方米\n因此，这四个数量中最大的是1数字每微升。Answer:A",
+        "reason_en": "These four quantities are all measurements of NumberDensity, and their corresponding basic units are Reciprocal Cubic Metre. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1Number per microlitre equals 1000000000.0 Reciprocal Cubic Metre.\n(B) 1Number per cubic metre equals 1.0 Reciprocal Cubic Metre.\n(C) 1Number per litre equals 1000.0 Reciprocal Cubic Metre.\n(D) 1Reciprocal Cubic Metre equals 1.0 Reciprocal Cubic Metre.\nTherefore, the largest of these four quantities is {maxval}. Answer:A",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1微西韦特每小时 (B)1rem (C)1mSv (D)1Sv",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 μSv/hr (B)1 Rem (C)1 mSv (D)1 Sv",
+        "reason_zh": "这四个数量都是度量剂量当量的，他们的对应的基本单位是西韦特。为了方便比较，需要转换到统一单位下:\n(A) 1微西韦特每小时等于2.78e-10 西韦特\n(B) 1rem等于0.01 西韦特\n(C) 1mSv等于0.001 西韦特\n(D) 1Sv等于1.0 西韦特\n因此，这四个数量中最大的是1Sv。Answer:D",
+        "reason_en": "These four quantities are all measurements of DoseEquivalent, and their corresponding basic units are Sievert. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1μSv/hr equals 2.78e-10 Sievert.\n(B) 1Rem equals 0.01 Sievert.\n(C) 1mSv equals 0.001 Sievert.\n(D) 1Sv equals 1.0 Sievert.\nTherefore, the largest of these four quantities is {maxval}. Answer:D",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1平方码 (B)1cm2 (C)1平方千米 (D)1十公亩",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 Square Yard (B)1 Square Centimetre (C)1 Square kilometre (D)1 Decare",
+        "reason_zh": "这四个数量都是度量面积的，他们的对应的基本单位是平方米。为了方便比较，需要转换到统一单位下:\n(A) 1平方码等于0.83612736 平方米\n(B) 1cm2等于0.0001 平方米\n(C) 1平方千米等于1000000.0 平方米\n(D) 1十公亩等于1000.0 平方米\n因此，这四个数量中最大的是1平方千米。Answer:C",
+        "reason_en": "These four quantities are all measurements of Area, and their corresponding basic units are Square Metre. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1Square Yard equals 0.83612736 Square Metre.\n(B) 1Square Centimetre equals 0.0001 Square Metre.\n(C) 1Square kilometre equals 1000000.0 Square Metre.\n(D) 1Decare equals 1000.0 Square Metre.\nTherefore, the largest of these four quantities is {maxval}. Answer:C",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1摩尔 (B)1国际单位 (C)1kmol (D)1毫分子",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 mol (B)1 IU (C)1 Kilomole (D)1 Millimole",
+        "reason_zh": "这四个数量都是度量物质的量的，他们的对应的基本单位是摩尔。为了方便比较，需要转换到统一单位下:\n(A) 1摩尔等于1.0 摩尔\n(B) 1国际单位等于0.0 摩尔\n(C) 1kmol等于1000.0 摩尔\n(D) 1毫分子等于0.001 摩尔\n因此，这四个数量中最大的是1kmol。Answer:C",
+        "reason_en": "These four quantities are all measurements of AmountOfSubstance, and their corresponding basic units are Mole. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1mol equals 1.0 Mole.\n(B) 1IU equals 0.0 Mole.\n(C) 1Kilomole equals 1000.0 Mole.\n(D) 1Millimole equals 0.001 Mole.\nTherefore, the largest of these four quantities is {maxval}. Answer:C",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1巴 (B)1厘米水柱 (C)1ftH2O (D)1GPa",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 Bar (B)1 Conventional Centimetre Of Water (C)1 Foot of Water (D)1 Gigapascal",
+        "reason_zh": "这四个数量都是度量压强的，他们的对应的基本单位是帕。为了方便比较，需要转换到统一单位下:\n(A) 1巴等于100000.0 帕\n(B) 1厘米水柱等于98.0665 帕\n(C) 1ftH2O等于2989.06692 帕\n(D) 1GPa等于1000000000.0 帕\n因此，这四个数量中最大的是1GPa。Answer:D",
+        "reason_en": "These four quantities are all measurements of ForcePerArea, and their corresponding basic units are Pascal. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1Bar equals 100000.0 Pascal.\n(B) 1Conventional Centimetre Of Water equals 98.0665 Pascal.\n(C) 1Foot of Water equals 2989.06692 Pascal.\n(D) 1Gigapascal equals 1000000000.0 Pascal.\nTherefore, the largest of these four quantities is {maxval}. Answer:D",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1m^{-2} (B)1数字每平方米 (C)1数字每平方千米 (D)1数字每公顷",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 Reciprocal Square Metre (B)1 Number per square metre (C)1 Number per square kilometre (D)1 Number per hectare",
+        "reason_zh": "这四个数量都是度量粒子通量的，他们的对应的基本单位是每平方米。为了方便比较，需要转换到统一单位下:\n(A) 1m^{-2}等于1.0 每平方米\n(B) 1数字每平方米等于1.0 每平方米\n(C) 1数字每平方千米等于1e-06 每平方米\n(D) 1数字每公顷等于1000000.0 每平方米\n因此，这四个数量中最大的是1数字每公顷。Answer:D",
+        "reason_en": "These four quantities are all measurements of ParticleFluence, and their corresponding basic units are Reciprocal Square Metre. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1Reciprocal Square Metre equals 1.0 Reciprocal Square Metre.\n(B) 1Number per square metre equals 1.0 Reciprocal Square Metre.\n(C) 1Number per square kilometre equals 1e-06 Reciprocal Square Metre.\n(D) 1Number per hectare equals 1000000.0 Reciprocal Square Metre.\nTherefore, the largest of these four quantities is {maxval}. Answer:D",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1配克每秒 (B)1立方米每分钟 (C)1夸脱每天 (D)1pk/h",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 Peck Per Second (B)1 Cubic Metre Per Minute (C)1 Quart (UK Liquid) Per Day (D)1 pk/h",
+        "reason_zh": "这四个数量都是度量体积流量的，他们的对应的基本单位是立方米每秒。为了方便比较，需要转换到统一单位下:\n(A) 1配克每秒等于0.009092181 立方米每秒\n(B) 1立方米每分钟等于0.01666667 立方米每秒\n(C) 1夸脱每天等于1.32e-08 立方米每秒\n(D) 1pk/h等于2.45e-06 立方米每秒\n因此，这四个数量中最大的是1立方米每分钟。Answer:B",
+        "reason_en": "These four quantities are all measurements of VolumeFlowRate, and their corresponding basic units are Cubic Metre per Second. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1Peck Per Second equals 0.009092181 Cubic Metre per Second.\n(B) 1Cubic Metre Per Minute equals 0.01666667 Cubic Metre per Second.\n(C) 1Quart (UK Liquid) Per Day equals 1.32e-08 Cubic Metre per Second.\n(D) 1pk/h equals 2.45e-06 Cubic Metre per Second.\nTherefore, the largest of these four quantities is {maxval}. Answer:B",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1克碳每平方米每天 (B)1克氮每平方米每天 (C)1mg/m2·d (D)1mg/m2·h",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 grams Carbon per square metre per day (B)1 grams Nitrogen per square metre per day (C)1 mg/m2·d (D)1 mg/m2·h",
+        "reason_zh": "这四个数量都是度量面积时间内的质量的，他们的对应的基本单位是千克每平方米每秒。为了方便比较，需要转换到统一单位下:\n(A) 1克碳每平方米每天等于1.16e-08 千克每平方米每秒\n(B) 1克氮每平方米每天等于1.16e-08 千克每平方米每秒\n(C) 1mg/m2·d等于1.16e-11 千克每平方米每秒\n(D) 1mg/m2·h等于2.78e-10 千克每平方米每秒\n因此，这四个数量中最大的是1克碳每平方米每天。Answer:A",
+        "reason_en": "These four quantities are all measurements of MassPerAreaTime, and their corresponding basic units are Kilograms per square metre per second. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1grams Carbon per square metre per day equals 1.16e-08 Kilograms per square metre per second.\n(B) 1grams Nitrogen per square metre per day equals 1.16e-08 Kilograms per square metre per second.\n(C) 1mg/m2·d equals 1.16e-11 Kilograms per square metre per second.\n(D) 1mg/m2·h equals 2.78e-10 Kilograms per square metre per second.\nTherefore, the largest of these four quantities is {maxval}. Answer:A",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1毫牛顿米 (B)1千克力米 (C)1dN·m (D)1μN·m",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 mN·m (B)1 Kilogram?force Metre (C)1 Decinewton Metre (D)1 Micronewton Metre",
+        "reason_zh": "这四个数量都是度量力矩的，他们的对应的基本单位是牛顿米。为了方便比较，需要转换到统一单位下:\n(A) 1毫牛顿米等于0.001 牛顿米\n(B) 1千克力米等于9.80665 牛顿米\n(C) 1dN·m等于0.1 牛顿米\n(D) 1μN·m等于1e-06 牛顿米\n因此，这四个数量中最大的是1千克力米。Answer:B",
+        "reason_en": "These four quantities are all measurements of Torque, and their corresponding basic units are Newton Metre. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1mN·m equals 0.001 Newton Metre.\n(B) 1Kilogram?force Metre equals 9.80665 Newton Metre.\n(C) 1Decinewton Metre equals 0.1 Newton Metre.\n(D) 1Micronewton Metre equals 1e-06 Newton Metre.\nTherefore, the largest of these four quantities is {maxval}. Answer:B",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下四个数量中，哪个最大？\nOptions: (A)1ms (B)1千秒 (C)1月 (D)1恒星小时",
+        "question_en": "Which of the following four physical quantities is the largest one?\nOptions: (A)1 millisecond (B)1 ks (C)1 mon (D)1 Sidereal Hour",
+        "reason_zh": "这四个数量都是度量时间的，他们的对应的基本单位是秒。为了方便比较，需要转换到统一单位下:\n(A) 1ms等于0.001 秒\n(B) 1千秒等于1000.0 秒\n(C) 1月等于2551442.976 秒\n(D) 1恒星小时等于0.0 秒\n因此，这四个数量中最大的是1月。Answer:C",
+        "reason_en": "These four quantities are all measurements of Time, and their corresponding basic units are Second. For convenience of comparison, they need to be converted to a unified unit:\n(A) 1millisecond equals 0.001 Second.\n(B) 1ks equals 1000.0 Second.\n(C) 1mon equals 2551442.976 Second.\n(D) 1Sidereal Hour equals 0.0 Second.\nTherefore, the largest of these four quantities is {maxval}. Answer:C",
+        "ans": "(C)"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "question_zh": "对于数量电容而言。1法拉等于多少μF?\nOptions: (A)10000000.0 (B)1000000.0 (C)100000.0 (D)2000000.0",
+        "question_en": "In terms of the physical quantity Capacitance, how many microfarad is equal to 1 Farad?\nOptions: (A)10000000.0 (B)1000000.0 (C)100000.0 (D)2000000.0",
+        "reason_zh": "“μF”和“法拉”都是度量Capacitance的单位，μF所属量纲的基本单位是法拉。因为1μF等于1000000.0 法拉。因此，答案为B。Answer:B",
+        "reason_en": "\"microfarad\" and \"Farad\" are both units of quantity Capacitance, and the SI base unit of microfarad dimensions is Farad. Since 1microfarad is equal to 1000000.0 Farad, the answer is B. Answer:B",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "对于数量动力粘度而言。1帕秒等于多少磅力秒每平方英寸?\nOptions: (A)1.45038e-05 (B)0.000145038 (C)0.000145138 (D)0.00145038",
+        "question_en": "In terms of the physical quantity DynamicViscosity, how many Pound Force Second per Square Inch is equal to 1 Pascal Second?\nOptions: (A)1.45038e-05 (B)0.000145038 (C)0.000145138 (D)0.00145038",
+        "reason_zh": "“磅力秒每平方英寸”和“帕秒”都是度量DynamicViscosity的单位，磅力秒每平方英寸所属量纲的基本单位是帕秒。因为1磅力秒每平方英寸等于0.00014503772517529255 帕秒。因此，答案为B。Answer:B",
+        "reason_en": "\"Pound Force Second per Square Inch\" and \"Pascal Second\" are both units of quantity DynamicViscosity, and the SI base unit of Pound Force Second per Square Inch dimensions is Pascal Second. Since 1Pound Force Second per Square Inch is equal to 0.00014503772517529255 Pascal Second, the answer is B. Answer:B",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "对于数量射频功率而言。1dB等于多少贝尔?\nOptions: (A)0.101 (B)0.1001 (C)1.0 (D)0.1",
+        "question_en": "In terms of the physical quantity RF-Power, how many Bel is equal to 1 Decibel?\nOptions: (A)0.101 (B)0.1001 (C)1.0 (D)0.1",
+        "reason_zh": "“贝尔”和“dB”都是度量RF-Power的单位，贝尔所属量纲的基本单位是dB。因为1贝尔等于0.1 dB。因此，答案为D。Answer:D",
+        "reason_en": "\"Bel\" and \"Decibel\" are both units of quantity RF-Power, and the SI base unit of Bel dimensions is Decibel. Since 1Bel is equal to 0.1 Decibel, the answer is D. Answer:D",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "对于数量体积通量而言。1m/s等于多少毫升每平方厘米秒?\nOptions: (A)10.0 (B)100.0 (C)1000.0 (D)200.0",
+        "question_en": "In terms of the physical quantity VolumetricFlux, how many Millilitre Per Square Centimetre Second is equal to 1 Metre per Second?\nOptions: (A)10.0 (B)100.0 (C)1000.0 (D)200.0",
+        "reason_zh": "“毫升每平方厘米秒”和“m/s”都是度量VolumetricFlux的单位，毫升每平方厘米秒所属量纲的基本单位是m/s。因为1毫升每平方厘米秒等于100.0 m/s。因此，答案为B。Answer:B",
+        "reason_en": "\"Millilitre Per Square Centimetre Second\" and \"Metre per Second\" are both units of quantity VolumetricFlux, and the SI base unit of Millilitre Per Square Centimetre Second dimensions is Metre per Second. Since 1Millilitre Per Square Centimetre Second is equal to 100.0 Metre per Second, the answer is B. Answer:B",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "对于数量离子强度而言。1mol/kg等于多少毫摩尔每克?\nOptions: (A)10.0 (B)0.1 (C)1.0 (D)0.0",
+        "question_en": "In terms of the physical quantity IonicStrength, how many mmol/g is equal to 1 mol/kg?\nOptions: (A)10.0 (B)0.1 (C)1.0 (D)0.0",
+        "reason_zh": "“毫摩尔每克”和“mol/kg”都是度量IonicStrength的单位，毫摩尔每克所属量纲的基本单位是mol/kg。因为1毫摩尔每克等于1.0 mol/kg。因此，答案为C。Answer:C",
+        "reason_en": "\"mmol/g\" and \"mol/kg\" are both units of quantity IonicStrength, and the SI base unit of mmol/g dimensions is mol/kg. Since 1mmol/g is equal to 1.0 mol/kg, the answer is C. Answer:C",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "对于数量功率而言。1瓦特等于多少bar·l/s?\nOptions: (A)0.01 (B)0.1 (C)0.001 (D)0.01001",
+        "question_en": "In terms of the physical quantity Power, how many Bar Litre Per Second is equal to 1 Watt?\nOptions: (A)0.01 (B)0.1 (C)0.001 (D)0.01001",
+        "reason_zh": "“bar·l/s”和“瓦特”都是度量Power的单位，bar·l/s所属量纲的基本单位是瓦特。因为1bar·l/s等于0.01 瓦特。因此，答案为A。Answer:A",
+        "reason_en": "\"Bar Litre Per Second\" and \"Watt\" are both units of quantity Power, and the SI base unit of Bar Litre Per Second dimensions is Watt. Since 1Bar Litre Per Second is equal to 0.01 Watt, the answer is A. Answer:A",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "对于数量液体容积而言。1立方米等于多少l?\nOptions: (A)2000.0 (B)1000.0 (C)10000.0 (D)100.0",
+        "question_en": "In terms of the physical quantity LiquidVolume, how many Litre is equal to 1 m3?\nOptions: (A)2000.0 (B)1000.0 (C)10000.0 (D)100.0",
+        "reason_zh": "“l”和“立方米”都是度量LiquidVolume的单位，l所属量纲的基本单位是立方米。因为1l等于1000.0 立方米。因此，答案为B。Answer:B",
+        "reason_en": "\"Litre\" and \"m3\" are both units of quantity LiquidVolume, and the SI base unit of Litre dimensions is m3. Since 1Litre is equal to 1000.0 m3, the answer is B. Answer:B",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "对于数量电导率而言。1西门子每米等于多少毫西门子每米?\nOptions: (A)1000.0 (B)10000.0 (C)0.0 (D)100.0",
+        "question_en": "In terms of the physical quantity Conductivity, how many MilliSiemens per metre is equal to 1 S/m?\nOptions: (A)1000.0 (B)10000.0 (C)0.0 (D)100.0",
+        "reason_zh": "“毫西门子每米”和“西门子每米”都是度量Conductivity的单位，毫西门子每米所属量纲的基本单位是西门子每米。因为1毫西门子每米等于1000.0 西门子每米。因此，答案为A。Answer:A",
+        "reason_en": "\"MilliSiemens per metre\" and \"S/m\" are both units of quantity Conductivity, and the SI base unit of MilliSiemens per metre dimensions is S/m. Since 1MilliSiemens per metre is equal to 1000.0 S/m, the answer is A. Answer:A",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "对于数量能量而言。1J等于多少伏特安培小时?\nOptions: (A)0.000277878 (B)0.000277778 (C)0.000287778 (D)2.77778e-05",
+        "question_en": "In terms of the physical quantity Energy, how many V·A·h is equal to 1 J?\nOptions: (A)0.000277878 (B)0.000277778 (C)0.000287778 (D)2.77778e-05",
+        "reason_zh": "“伏特安培小时”和“J”都是度量Energy的单位，伏特安培小时所属量纲的基本单位是J。因为1伏特安培小时等于0.0002777777777777778 J。因此，答案为B。Answer:B",
+        "reason_en": "\"V·A·h\" and \"J\" are both units of quantity Energy, and the SI base unit of V·A·h dimensions is J. Since 1V·A·h is equal to 0.0002777777777777778 J, the answer is B. Answer:B",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "对于数量长度而言。1公尺等于多少纳米?\nOptions: (A)2000000000.0 (B)1000000000.0 (C)0.0 (D)10000000000.0",
+        "question_en": "In terms of the physical quantity Length, how many nm is equal to 1 Metre?\nOptions: (A)2000000000.0 (B)1000000000.0 (C)0.0 (D)10000000000.0",
+        "reason_zh": "“纳米”和“公尺”都是度量Length的单位，纳米所属量纲的基本单位是公尺。因为1纳米等于999999999.9999999 公尺。因此，答案为B。Answer:B",
+        "reason_en": "\"nm\" and \"Metre\" are both units of quantity Length, and the SI base unit of nm dimensions is Metre. Since 1nm is equal to 999999999.9999999 Metre, the answer is B. Answer:B",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "对于数量角动量而言。1J·s等于多少kg·m2/s?\nOptions: (A)0.1 (B)1.0 (C)10.0 (D)2.0",
+        "question_en": "In terms of the physical quantity AngularMomentum, how many kg·m2/s is equal to 1 J·s?\nOptions: (A)0.1 (B)1.0 (C)10.0 (D)2.0",
+        "reason_zh": "“kg·m2/s”和“J·s”都是度量AngularMomentum的单位，kg·m2/s所属量纲的基本单位是J·s。因为1kg·m2/s等于1.0 J·s。因此，答案为B。Answer:B",
+        "reason_en": "\"kg·m2/s\" and \"J·s\" are both units of quantity AngularMomentum, and the SI base unit of kg·m2/s dimensions is J·s. Since 1kg·m2/s is equal to 1.0 J·s, the answer is B. Answer:B",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "对于数量溶质协同摩尔浓度而言。1摩尔每千克等于多少千摩尔每千克?\nOptions: (A)0.002 (B)0.001001 (C)0.001 (D)0.0001",
+        "question_en": "In terms of the physical quantity MolalityOfSolute, how many kmol/kg is equal to 1 mol/kg?\nOptions: (A)0.002 (B)0.001001 (C)0.001 (D)0.0001",
+        "reason_zh": "“千摩尔每千克”和“摩尔每千克”都是度量MolalityOfSolute的单位，千摩尔每千克所属量纲的基本单位是摩尔每千克。因为1千摩尔每千克等于0.001 摩尔每千克。因此，答案为C。Answer:C",
+        "reason_en": "\"kmol/kg\" and \"mol/kg\" are both units of quantity MolalityOfSolute, and the SI base unit of kmol/kg dimensions is mol/kg. Since 1kmol/kg is equal to 0.001 mol/kg, the answer is C. Answer:C",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "对于数量能量而言。1焦耳等于多少千卡?\nOptions: (A)0.00239006 (B)0.000238006 (C)2.39006e-05 (D)0.000239006",
+        "question_en": "In terms of the physical quantity Energy, how many kcal is equal to 1 Joule?\nOptions: (A)0.00239006 (B)0.000238006 (C)2.39006e-05 (D)0.000239006",
+        "reason_zh": "“千卡”和“焦耳”都是度量Energy的单位，千卡所属量纲的基本单位是焦耳。因为1千卡等于0.0002390057361376673 焦耳。因此，答案为D。Answer:D",
+        "reason_en": "\"kcal\" and \"Joule\" are both units of quantity Energy, and the SI base unit of kcal dimensions is Joule. Since 1kcal is equal to 0.0002390057361376673 Joule, the answer is D. Answer:D",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "对于数量线密度而言。1千克每米等于多少lbm/ft?\nOptions: (A)0.671969 (B)0.0671969 (C)6.71969 (D)0.671869",
+        "question_en": "In terms of the physical quantity MassPerLength, how many lbm/ft is equal to 1 Kilogram per Metre?\nOptions: (A)0.671969 (B)0.0671969 (C)6.71969 (D)0.671869",
+        "reason_zh": "“lbm/ft”和“千克每米”都是度量MassPerLength的单位，lbm/ft所属量纲的基本单位是千克每米。因为1lbm/ft等于0.6719689749451422 千克每米。因此，答案为A。Answer:A",
+        "reason_en": "\"lbm/ft\" and \"Kilogram per Metre\" are both units of quantity MassPerLength, and the SI base unit of lbm/ft dimensions is Kilogram per Metre. Since 1lbm/ft is equal to 0.6719689749451422 Kilogram per Metre, the answer is A. Answer:A",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "对于数量质量衰减系数而言。1平方米每千克等于多少平方米每克?\nOptions: (A)0.001001 (B)0.0001 (C)0.001 (D)2.08167e-20",
+        "question_en": "In terms of the physical quantity MassAttenuationCoefficient, how many m2/g is equal to 1 Square Metre per Kilogram?\nOptions: (A)0.001001 (B)0.0001 (C)0.001 (D)2.08167e-20",
+        "reason_zh": "“平方米每克”和“平方米每千克”都是度量MassAttenuationCoefficient的单位，平方米每克所属量纲的基本单位是平方米每千克。因为1平方米每克等于0.001 平方米每千克。因此，答案为C。Answer:C",
+        "reason_en": "\"m2/g\" and \"Square Metre per Kilogram\" are both units of quantity MassAttenuationCoefficient, and the SI base unit of m2/g dimensions is Square Metre per Kilogram. Since 1m2/g is equal to 0.001 Square Metre per Kilogram, the answer is C. Answer:C",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "对于数量速度而言。1m/s等于多少京赫兹米?\nOptions: (A)1e-09 (B)6.22816e-26 (C)1.01e-09 (D)1e-08",
+        "question_en": "In terms of the physical quantity Velocity, how many Gigahertz Metre is equal to 1 Metre per Second?\nOptions: (A)1e-09 (B)6.22816e-26 (C)1.01e-09 (D)1e-08",
+        "reason_zh": "“京赫兹米”和“m/s”都是度量Velocity的单位，京赫兹米所属量纲的基本单位是m/s。因为1京赫兹米等于1e-09 m/s。因此，答案为A。Answer:A",
+        "reason_en": "\"Gigahertz Metre\" and \"Metre per Second\" are both units of quantity Velocity, and the SI base unit of Gigahertz Metre dimensions is Metre per Second. Since 1Gigahertz Metre is equal to 1e-09 Metre per Second, the answer is A. Answer:A",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "对于数量面积而言。1平米等于多少平方英尺?\nOptions: (A)107.639 (B)1.07639 (C)10.7639 (D)10.8639",
+        "question_en": "In terms of the physical quantity Area, how many ft2 is equal to 1 m2?\nOptions: (A)107.639 (B)1.07639 (C)10.7639 (D)10.8639",
+        "reason_zh": "“平方英尺”和“平米”都是度量Area的单位，平方英尺所属量纲的基本单位是平米。因为1平方英尺等于10.763910416709722 平米。因此，答案为C。Answer:C",
+        "reason_en": "\"ft2\" and \"m2\" are both units of quantity Area, and the SI base unit of ft2 dimensions is m2. Since 1ft2 is equal to 10.763910416709722 m2, the answer is C. Answer:C",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "对于数量推力质量比而言。1N/kg等于多少磅力每磅?\nOptions: (A)1.01972 (B)0.111972 (C)0.102972 (D)0.101972",
+        "question_en": "In terms of the physical quantity ThrustToMassRatio, how many lbf/lbm is equal to 1 N/kg?\nOptions: (A)1.01972 (B)0.111972 (C)0.102972 (D)0.101972",
+        "reason_zh": "“磅力每磅”和“N/kg”都是度量ThrustToMassRatio的单位，磅力每磅所属量纲的基本单位是N/kg。因为1磅力每磅等于0.10197161245931377 N/kg。因此，答案为D。Answer:D",
+        "reason_en": "\"lbf/lbm\" and \"N/kg\" are both units of quantity ThrustToMassRatio, and the SI base unit of lbf/lbm dimensions is N/kg. Since 1lbf/lbm is equal to 0.10197161245931377 N/kg, the answer is D. Answer:D",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "对于数量线密度而言。1kg/m等于多少tex?\nOptions: (A)10000000.0 (B)100000.0 (C)1000000.0 (D)2000000.0",
+        "question_en": "In terms of the physical quantity MassPerLength, how many Tex is equal to 1 Kilogram per Metre?\nOptions: (A)10000000.0 (B)100000.0 (C)1000000.0 (D)2000000.0",
+        "reason_zh": "“tex”和“kg/m”都是度量MassPerLength的单位，tex所属量纲的基本单位是kg/m。因为1tex等于1000000.0 kg/m。因此，答案为C。Answer:C",
+        "reason_en": "\"Tex\" and \"Kilogram per Metre\" are both units of quantity MassPerLength, and the SI base unit of Tex dimensions is Kilogram per Metre. Since 1Tex is equal to 1000000.0 Kilogram per Metre, the answer is C. Answer:C",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "对于数量活度而言。1贝可勒尔等于多少毫居?\nOptions: (A)2.7127e-08 (B)2.7027e-08 (C)2.7027e-09 (D)2.6027e-08",
+        "question_en": "In terms of the physical quantity Activity, how many Millicurie is equal to 1 Becquerel?\nOptions: (A)2.7127e-08 (B)2.7027e-08 (C)2.7027e-09 (D)2.6027e-08",
+        "reason_zh": "“毫居”和“贝可勒尔”都是度量Activity的单位，毫居所属量纲的基本单位是贝可勒尔。因为1毫居等于2.7027027027027028e-08 贝可勒尔。因此，答案为B。Answer:B",
+        "reason_en": "\"Millicurie\" and \"Becquerel\" are both units of quantity Activity, and the SI base unit of Millicurie dimensions is Becquerel. Since 1Millicurie is equal to 2.7027027027027028e-08 Becquerel, the answer is B. Answer:B",
+        "ans": "(B)"
+    }
+]

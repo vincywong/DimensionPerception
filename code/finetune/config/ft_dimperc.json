@@ -1,0 +1,74 @@
+{
+    "tokenizer": {
+        "import_path": "transformers",
+        "model_name_or_path": "/path/to/base_model"
+    },
+    "model": {
+        "import_path": "transformers",
+        "model_name_or_path": "/path/to/base_model"
+    },
+    "dataset": {
+        "max_length": 2048,
+        "data_path": "/path/to/data/dim_prec/ift_data.pkl",
+        "data_ids_path": "/path/to/data/dim_perc/ift_data_ids.pkl"
+    },
+    "training": {
+        "save_dir": "./ckp/",
+        "save_name": "dimperc",
+        "save_steps": 1000,
+        "log_interval": 50,
+        "max_steps": 100000,
+        "max_epoches": 10,
+        "use_flash_attention": true,
+        "use_lora": false
+    },
+    "ds_config": {
+        "bf16": {
+            "enabled": true
+        },
+        "optimizer": {
+            "type": "AdamW",
+            "params": {
+                "lr": 3e-5,
+                "betas": [0.98, 0.999],
+                "eps": 1e-9
+            }
+        },
+        "scheduler": {
+            "type": "WarmupLR",
+            "params": {
+                "warmup_min_lr": 2e-5,
+                "warmup_max_lr": 5e-5,
+                "warmup_num_steps": 300
+            }
+        },
+        "zero_optimization": {
+            "stage": 1,
+            "allgather_partitions": true,
+            "allgather_bucket_size": 2e8,
+            "overlap_comm": true,
+            "reduce_scatter": true,
+            "reduce_bucket_size": 2e8,
+            "contiguous_gradients": true,
+            "stage3_gather_16bit_weights_on_model_save": true,
+            "offload_optimizer": {
+                "device": "cpu"
+            }
+        },
+        "gradient_accumulation_steps": 16,
+        "train_micro_batch_size_per_gpu": 2,
+        "wall_clock_breakdown": false,
+        "steps_per_print": 50
+    },
+    "lora_config": {
+        "r": 8,
+        "lora_alpha": 16,
+        "target_modules": [
+            "q_proj",
+            "v_proj"
+        ],
+        "lora_dropout": 0.05,
+        "bias": "none",
+        "task_type": "CAUSAL_LM"
+    }
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(A·m2) * (s/m)”可以表示同一物理量？\nOptions: (A)安培平方米 (B)安培小时 (C)库仑米 (D)C·m2",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(A·m2) * (Seconds per metre)\"?\nOptions: (A)A·m2 (B)Ampere Hour (C)Coulomb Metre (D)C·m2",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(安培) / (C/mol)”可以表示同一物理量？\nOptions: (A)摩尔每克每小时 (B)kat (C)IU (D)beats-per-min",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(A) / (C/mol)\"?\nOptions: (A)mol/g·h (B)Katal (C)International Unit (D)beats-per-min",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(V·m) * (A/J)”可以表示同一物理量？\nOptions: (A)摄氏度厘米 (B)埃 (C)蒲福 (D)英亩",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(V·m) * (A/J)\"?\nOptions: (A)°C·cm (B)Angstrom (C)Beaufort (D)acre",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(蒲福) / (埃)”可以表示同一物理量？\nOptions: (A)达因秒每厘米 (B)赫兹每开尔文 (C)每分钟心跳次数 (D)Bq/kg",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(Beaufort) / (Angstrom)\"?\nOptions: (A)Dyne Second Per Centimetre (B)Hertz per Kelvin (C)Heart Beats per Minute (D)Bq/kg",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(cP) / (摄氏度周)”可以表示同一物理量？\nOptions: (A)标准大气压 (B)立方厘米每摩尔 (C)bar/K (D)焦耳每千克开尔文立方米",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(Centipoise) / (Degree Celsius week)\"?\nOptions: (A)Standard Atmosphere (B)Cubic Centimetre Per Mole (C)bar/K (D)J/kg·K·m3",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“() * (Gs)”可以表示同一物理量？\nOptions: (A)达因秒每厘米 (B)达因 (C)英国热量单位每平方英尺 (D)Gs",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(Ampere) * (Gauss)\"?\nOptions: (A)Dyne Second Per Centimetre (B)Dyne (C)btu/ft2 (D)Gauss",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(库仑每摩尔) * (IU)”可以表示同一物理量？\nOptions: (A)cP/bar (B)安培 (C)安培小时 (D)库仑米",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(C/mol) * (International Unit)\"?\nOptions: (A)Centipoise Per Bar (B)A (C)Ampere Hour (D)Coulomb Metre",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(库仑平方米每伏特) / (A)”可以表示同一物理量？\nOptions: (A)库仑平方米每伏特 (B)平方米每伏特秒 (C)英国热量单位英尺 (D)btu/lbm",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(C·m2/V) / (A)\"?\nOptions: (A)Coulomb Square Metre Per Volt (B)Square Metre per Volt Second (C)BTU Foot (D)btu/lbm",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(高斯) / (A/cm)”可以表示同一物理量？\nOptions: (A)磅力英尺每安培 (B)亨利每米 (C)GΩ (D)H",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(Gs) / (Ampere Per Centimetre)\"?\nOptions: (A)Pound Force Foot Per Ampere (B)H/m (C)GΩ (D)H",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(C/mol) / (焦耳每摩尔)”可以表示同一物理量？\nOptions: (A)V·m (B)A/J (C)赫兹每伏特 (D)kS",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(C/mol) / (Joule per Mole)\"?\nOptions: (A)V-M (B)Ampere per Joule (C)Hz/V (D)Kilosiemens",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“() * (GΩ)”可以表示同一物理量？\nOptions: (A)GΩ (B)mV/min (C)V·m (D)kV",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(A) * (GΩ)\"?\nOptions: (A)GΩ (B)mV/min (C)V-M (D)kV",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(°C·wk) / (英国热量单位每平方英尺)”可以表示同一物理量？\nOptions: (A)btu/lbm (B)平方帕每平方秒 (C)克洛 (D)°F·h",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(°C·wk) / (btu/ft2)\"?\nOptions: (A)btu/lbm (B)Pa2/s2 (C)clo (D)°F·h",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(aJ) / (A·h)”可以表示同一物理量？\nOptions: (A)kV (B)GΩ (C)磅力英尺每安培 (D)毫伏特每分钟",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(aJ) / (Ampere Hour)\"?\nOptions: (A)kV (B)GΩ (C)Pound Force Foot Per Ampere (D)Millivolt Per Minute",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(kg·m/s) / (原子质量单位)”可以表示同一物理量？\nOptions: (A)K/s (B)蒲福 (C)埃 (D)每分钟心跳次数",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(kg·m/s) / (Atomic mass unit)\"?\nOptions: (A)Kelvin metres per second (B)Beaufort (C)Angstrom (D)Heart Beats per Minute",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(阿焦耳) / (dyn)”可以表示同一物理量？\nOptions: (A)cm/K (B)英亩 (C)°C·cm (D)埃",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(Attojoule) / (Dyne)\"?\nOptions: (A)Centimetre Per Kelvin (B)Acre (C)Degree Celsius Centimetre (D)Angstrom",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(英亩) * (cP)”可以表示同一物理量？\nOptions: (A)kg·m/s (B)达因 (C)蒲福 (D)达因秒每厘米",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(acre) * (Centipoise)\"?\nOptions: (A)Kilogram Metre Per Second (B)Dyne (C)Beaufort (D)dyn·s/cm",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(欧姆米) / (亨利)”可以表示同一物理量？\nOptions: (A)beats-per-min (B)cm2/s (C)厘米每平方秒 (D)蒲福",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(Ohm Metre) / (Henry)\"?\nOptions: (A)beats-per-min (B)Square centimetres per second (C)cm/s2 (D)Beaufort",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(g/°C) / (°C·cm)”可以表示同一物理量？\nOptions: (A)原子质量单位 (B)cm2/cm3 (C)旦尼尔 (D)cP",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(Gram Degree Celsius) / (Degree Celsius Centimetre)\"?\nOptions: (A)Atomic mass unit (B)cm2/cm3 (C)Denier (D)Centipoise",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(标准大气压) * (英亩)”可以表示同一物理量？\nOptions: (A)达因 (B)千韦伯每米 (C)阿焦耳 (D)瓦特每平方米每相反的米每球面度",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(atm) * (acre)\"?\nOptions: (A)Dyne (B)kWb/m (C)aJ (D)W·m/m2·sr",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "以下4个数量单位中，哪个单位和“(英国热量单位每平方英尺) / (高斯)”可以表示同一物理量？\nOptions: (A) (B)A/°C (C)A·h (D)A/m",
+        "question_en": "Which of the following 4 units of quantity represents the equivalent quantity to \"(btu/ft2) / (Gauss)\"?\nOptions: (A)Ampere (B)A/°C (C)A·h (D)A/m",
+        "ans": "(A)"
+    }
+]

@@ -1,0 +1,2122 @@
+[
+    {
+        "text": "小霸王CXW-200-F20是小霸王品牌旗下的抽油烟机，最大风压为≥300Pa。",
+        "quan": [
+            {
+                "quantity": "300Pa",
+                "quantity_span": [
+                    34,
+                    39
+                ],
+                "value": "300",
+                "value_span": [
+                    34,
+                    37
+                ],
+                "unit": "Pa",
+                "unit_span": [
+                    37,
+                    39
+                ],
+                "unit_id": "PA"
+            }
+        ]
+    },
+    {
+        "text": "轻骨料混凝土（Lightweight aggregate concrete）是指采用轻骨料的混凝土，其表观密度不大于1950kg/m3。轻骨料混凝土具有轻质、高强、保温和耐火等特点，并且变形性能良好，弹性模量较低，在一般情况下收缩和徐变也较大。",
+        "quan": [
+            {
+                "quantity": "1950kg/m3",
+                "quantity_span": [
+                    58,
+                    67
+                ],
+                "value": "1950",
+                "value_span": [
+                    58,
+                    62
+                ],
+                "unit": "kg/m3",
+                "unit_span": [
+                    62,
+                    67
+                ],
+                "unit_id": "KiloGM-PER-M3"
+            }
+        ]
+    },
+    {
+        "text": "飞利浦HD2061/01是飞利浦旗下的一款豆浆机，产品电压为220V，电机功率为150W，加热功率为900W。",
+        "quan": [
+            {
+                "quantity": "220V",
+                "quantity_span": [
+                    30,
+                    34
+                ],
+                "value": "220",
+                "value_span": [
+                    30,
+                    33
+                ],
+                "unit": "V",
+                "unit_span": [
+                    33,
+                    34
+                ],
+                "unit_id": "V"
+            },
+            {
+                "quantity": "150W",
+                "quantity_span": [
+                    40,
+                    44
+                ],
+                "value": "150",
+                "value_span": [
+                    40,
+                    43
+                ],
+                "unit": "W",
+                "unit_span": [
+                    43,
+                    44
+                ],
+                "unit_id": "W"
+            },
+            {
+                "quantity": "900W",
+                "quantity_span": [
+                    50,
+                    54
+                ],
+                "value": "900",
+                "value_span": [
+                    50,
+                    53
+                ],
+                "unit": "W",
+                "unit_span": [
+                    53,
+                    54
+                ],
+                "unit_id": "W"
+            }
+        ]
+    },
+    {
+        "text": "D-Link DWL-8200AP是一款无线接入器，最高传输速率为108Mbps。",
+        "quan": [
+            {
+                "quantity": "108Mbps",
+                "quantity_span": [
+                    33,
+                    40
+                ],
+                "value": "108",
+                "value_span": [
+                    33,
+                    36
+                ],
+                "unit": "Mbps",
+                "unit_span": [
+                    36,
+                    40
+                ],
+                "unit_id": "MegaBIT-PER-SEC"
+            }
+        ]
+    },
+    {
+        "text": "Intel 酷睿i5-3470是一款CPU，适用于台式机，CPU主频为主频3.2GHz。 ",
+        "quan": [
+            {
+                "quantity": "3.2GHz",
+                "quantity_span": [
+                    37,
+                    43
+                ],
+                "value": "3.2",
+                "value_span": [
+                    37,
+                    40
+                ],
+                "unit": "GHz",
+                "unit_span": [
+                    40,
+                    43
+                ],
+                "unit_id": "GigaHZ"
+            }
+        ]
+    },
+    {
+        "text": "OnePlus X是一加科技于2015年10月29日在北京发布的手机。OnePlus X屏幕采用5英寸Super AMOLED材质屏幕；OnePlus X高度约140毫米，宽度约69毫米，厚度约6.9毫米，重量约138克，陶瓷版重量约160克。",
+        "quan": [
+            {
+                "quantity": "140毫米",
+                "quantity_span": [
+                    80,
+                    85
+                ],
+                "value": "140",
+                "value_span": [
+                    80,
+                    83
+                ],
+                "unit": "毫米",
+                "unit_span": [
+                    83,
+                    85
+                ],
+                "unit_id": "MilliM"
+            },
+            {
+                "quantity": "69毫米",
+                "quantity_span": [
+                    89,
+                    93
+                ],
+                "value": "69",
+                "value_span": [
+                    89,
+                    91
+                ],
+                "unit": "毫米",
+                "unit_span": [
+                    91,
+                    93
+                ],
+                "unit_id": "MilliM"
+            },
+            {
+                "quantity": "6.9毫米",
+                "quantity_span": [
+                    97,
+                    102
+                ],
+                "value": "6.9",
+                "value_span": [
+                    97,
+                    100
+                ],
+                "unit": "毫米",
+                "unit_span": [
+                    100,
+                    102
+                ],
+                "unit_id": "MilliM"
+            },
+            {
+                "quantity": "138克",
+                "quantity_span": [
+                    106,
+                    110
+                ],
+                "value": "138",
+                "value_span": [
+                    106,
+                    109
+                ],
+                "unit": "克",
+                "unit_span": [
+                    109,
+                    110
+                ],
+                "unit_id": "GM"
+            },
+            {
+                "quantity": "160克",
+                "quantity_span": [
+                    117,
+                    121
+                ],
+                "value": "160",
+                "value_span": [
+                    117,
+                    120
+                ],
+                "unit": "克",
+                "unit_span": [
+                    120,
+                    121
+                ],
+                "unit_id": "GM"
+            },
+            {
+                "quantity": "5英寸",
+                "quantity_span": [
+                    117,
+                    121
+                ],
+                "value": "5",
+                "value_span": [
+                    117,
+                    120
+                ],
+                "unit": "英寸",
+                "unit_span": [
+                    120,
+                    121
+                ],
+                "unit_id": "GM"
+            }
+        ]
+    },
+    {
+        "text": "全微X3，是一款拥有2.1音箱，1.5寸高音,3寸全频带的家用音响。",
+        "quan": [
+            {
+                "quantity": "1.5寸",
+                "quantity_span": [
+                    16,
+                    20
+                ],
+                "value": "1.5",
+                "value_span": [
+                    16,
+                    19
+                ],
+                "unit": "寸",
+                "unit_span": [
+                    19,
+                    20
+                ],
+                "unit_id": "CU_L_CUN"
+            },
+            {
+                "quantity": "3寸",
+                "quantity_span": [
+                    23,
+                    25
+                ],
+                "value": "3",
+                "value_span": [
+                    23,
+                    24
+                ],
+                "unit": "寸",
+                "unit_span": [
+                    24,
+                    25
+                ],
+                "unit_id": "CU_L_CUN"
+            }
+        ]
+    },
+    {
+        "text": "濑溪河，泸州市境内又称思济河、濑婆溪、冱水河，1985年经批准更名胡市河，长江支流沱江的支流，发源于重庆市大足区中敖镇。流经荣昌区、泸县、龙马潭区，于龙马潭区胡市镇汇入沱江。干流河道长195公里（一说238公里 ），河口多年平均流量37.2立方米/秒，总落差223米。濑溪河被称为大足、荣昌的母亲河，上源建有玉滩大型水库、上游、化龙、龙水湖等中型水库，中游急滩11处，落差47米，拦河筑坝7处，已建水...",
+        "quan": [
+            {
+                "quantity": "195公里",
+                "quantity_span": [
+                    92,
+                    97
+                ],
+                "value": "195",
+                "value_span": [
+                    92,
+                    95
+                ],
+                "unit": "公里",
+                "unit_span": [
+                    95,
+                    97
+                ],
+                "unit_id": "KiloM"
+            },
+            {
+                "quantity": "238公里",
+                "quantity_span": [
+                    100,
+                    105
+                ],
+                "value": "238",
+                "value_span": [
+                    100,
+                    103
+                ],
+                "unit": "公里",
+                "unit_span": [
+                    103,
+                    105
+                ],
+                "unit_id": "KiloM"
+            },
+            {
+                "quantity": "37.2立方米/秒",
+                "quantity_span": [
+                    116,
+                    123
+                ],
+                "value": "37.2",
+                "value_span": [
+                    116,
+                    120
+                ],
+                "unit": "立方米/1",
+                "unit_span": [
+                    120,
+                    123
+                ],
+                "unit_id": "M3"
+            },
+            {
+                "quantity": "223米",
+                "quantity_span": [
+                    129,
+                    133
+                ],
+                "value": "223",
+                "value_span": [
+                    129,
+                    132
+                ],
+                "unit": "米",
+                "unit_span": [
+                    132,
+                    133
+                ],
+                "unit_id": "M"
+            },
+            {
+                "quantity": "47米",
+                "quantity_span": [
+                    186,
+                    189
+                ],
+                "value": "47",
+                "value_span": [
+                    186,
+                    188
+                ],
+                "unit": "米",
+                "unit_span": [
+                    188,
+                    189
+                ],
+                "unit_id": "M"
+            }
+        ]
+    },
+    {
+        "text": "MOXA MGate MB3480是一款电子产品，传输速率为0.9216Mbps。",
+        "quan": [
+            {
+                "quantity": "0.9216Mbps",
+                "quantity_span": [
+                    30,
+                    40
+                ],
+                "value": "0.9216",
+                "value_span": [
+                    30,
+                    36
+                ],
+                "unit": "Mbps",
+                "unit_span": [
+                    36,
+                    40
+                ],
+                "unit_id": "MegaBIT-PER-SEC"
+            }
+        ]
+    },
+    {
+        "text": "LD-1B单点式称重传感器是一种传感器，绝缘电阻为≥5000MΩ。",
+        "quan": [
+            {
+                "quantity": "5000MΩ",
+                "quantity_span": [
+                    26,
+                    32
+                ],
+                "value": "5000",
+                "value_span": [
+                    26,
+                    30
+                ],
+                "unit": "MΩ",
+                "unit_span": [
+                    30,
+                    32
+                ],
+                "unit_id": "MegaOHM"
+            }
+        ]
+    },
+    {
+        "text": "HK-51型台式钠度计测量范围是0.00～9.36 pNa，0.01μg/L～23.0g/L。",
+        "quan": [
+            {
+                "quantity": "0.00～9.36 pNa",
+                "value": "0.00～9.36",
+                "unit": "pNa"
+            },
+            {
+                "quantity": "0.01μg/L",
+                "value": "0.01",
+                "unit": "μg/L"
+            },
+            {
+                "quantity": "23.0g/L",
+                "value": "23.0",
+                "unit": "g/L"
+            }
+        ]
+    },
+    {
+        "text": "舒万酒庄15公顷的葡萄园，环绕于酒庄四周，与静蔼的酒庄相得益彰，构成一幅美丽的风景画，显得格外迷人。",
+        "quan": [
+            {
+                "quantity": "15公顷",
+                "quantity_span": [
+                    4,
+                    8
+                ],
+                "value": "15",
+                "value_span": [
+                    4,
+                    6
+                ],
+                "unit": "公顷",
+                "unit_span": [
+                    6,
+                    8
+                ],
+                "unit_id": "HA"
+            }
+        ]
+    },
+    {
+        "text": "《漫威3D益智拼图：X战警》是2011年湖北长江出版集团，湖北少年儿童出版社出版的图书。",
+        "quan": []
+    },
+    {
+        "text": "能率JSW33-A是一款能率旗下热水器，安装在室外，热水产率为16升/分。",
+        "quan": [
+            {
+                "quantity": "16升/分",
+                "value": "16",
+                "unit": "升/分",
+                "unit_id": "L-PER-MIN"
+            }
+        ]
+    },
+    {
+        "text": "回龙抽水蓄能电站工程位于河南省南召县城东北16km的岳庄附近，电站系在回龙沟上游，距南阳市直线距离70km，距云阳和遮山220kV变电站直线距离分别为28 km和65km，距鸭河口火电站直线距离48 km，具有良好的建设抽水蓄能电站的地理条件。",
+        "quan": [
+            {
+                "quantity": "16km",
+                "quantity_span": [
+                    21,
+                    25
+                ],
+                "value": "16",
+                "value_span": [
+                    21,
+                    23
+                ],
+                "unit": "km",
+                "unit_span": [
+                    23,
+                    25
+                ],
+                "unit_id": "KiloM"
+            },
+            {
+                "quantity": "70km",
+                "quantity_span": [
+                    49,
+                    53
+                ],
+                "value": "70",
+                "value_span": [
+                    49,
+                    51
+                ],
+                "unit": "km",
+                "unit_span": [
+                    51,
+                    53
+                ],
+                "unit_id": "KiloM"
+            },
+            {
+                "quantity": "220kV",
+                "quantity_span": [
+                    60,
+                    65
+                ],
+                "value": "220",
+                "value_span": [
+                    60,
+                    63
+                ],
+                "unit": "kV",
+                "unit_span": [
+                    63,
+                    65
+                ],
+                "unit_id": "KiloV"
+            },
+            {
+                "quantity": "65km",
+                "quantity_span": [
+                    81,
+                    85
+                ],
+                "value": "65",
+                "value_span": [
+                    81,
+                    83
+                ],
+                "unit": "km",
+                "unit_span": [
+                    83,
+                    85
+                ],
+                "unit_id": "KiloM"
+            },
+            {
+                "quantity": "48 km",
+                "value": "48",
+                "unit": "km",
+                "unit_id": "KiloM"
+            }
+        ]
+    },
+    {
+        "text": "GENELEC 8050A是Genelec生产的一款音响，频响范围为35Hz - 21kHz (+/-3dB）。",
+        "quan": [
+            {
+                "quantity": "8050A",
+                "quantity_span": [
+                    8,
+                    13
+                ],
+                "value": "8050",
+                "value_span": [
+                    8,
+                    12
+                ],
+                "unit": "A",
+                "unit_span": [
+                    12,
+                    13
+                ],
+                "unit_id": "A"
+            },
+            {
+                "quantity": "35Hz",
+                "quantity_span": [
+                    34,
+                    38
+                ],
+                "value": "35",
+                "value_span": [
+                    34,
+                    36
+                ],
+                "unit": "Hz",
+                "unit_span": [
+                    36,
+                    38
+                ],
+                "unit_id": "HZ"
+            },
+            {
+                "quantity": "21kHz",
+                "quantity_span": [
+                    41,
+                    46
+                ],
+                "value": "21",
+                "value_span": [
+                    41,
+                    43
+                ],
+                "unit": "kHz",
+                "unit_span": [
+                    43,
+                    46
+                ],
+                "unit_id": "KiloHZ"
+            },
+            {
+                "quantity": "+/-3dB",
+                "quantity_span": [
+                    50,
+                    54
+                ],
+                "value": "+/-3",
+                "value_span": [
+                    50,
+                    52
+                ],
+                "unit": "dB",
+                "unit_span": [
+                    52,
+                    54
+                ],
+                "unit_id": "DeciB"
+            }
+        ]
+    },
+    {
+        "text": "十六烷酰胺丙基羟丙基磺基甜菜碱是一种分子式为C15H31CONH(CH2)3N(CH3)2CH2CH(OH)CH2SO3的有机物。",
+        "quan": []
+    },
+    {
+        "text": "AMX-13轻型坦克（英文：AMX-13 Light Tank），是第二次世界大战结束后20世纪40年代末期法国陆军研制装备的三种新型装甲战车之一，为第一代轻型坦克。AMX-13轻型坦克安装了自动装弹机，采用摇摆式炮塔、装一门75毫米火炮，由一台250马力汽油机驱动，具有车型小巧、机动性好的特点。",
+        "quan": [
+            {
+                "quantity": "75毫米",
+                "quantity_span": [
+                    113,
+                    117
+                ],
+                "value": "75",
+                "value_span": [
+                    113,
+                    115
+                ],
+                "unit": "毫米",
+                "unit_span": [
+                    115,
+                    117
+                ],
+                "unit_id": "MilliM"
+            },
+            {
+                "quantity": "250马力",
+                "quantity_span": [
+                    123,
+                    128
+                ],
+                "value": "250",
+                "value_span": [
+                    123,
+                    126
+                ],
+                "unit": "马力",
+                "unit_span": [
+                    126,
+                    128
+                ],
+                "unit_id": "HP_Metric"
+            }
+        ]
+    },
+    {
+        "text": "AS700在数据传输、数据存储方面均表现出不俗的能力。最大可以达到312,000的IOPS能力、最大可以达到1600MB/s的主机通道带宽可以满足绝大多数应用对于数据读取的需求；硬盘接口支持SAS标准则不会让硬盘数据读取速度成为系统速度的瓶颈；高达4GB的高速缓存有效保证数据读取的连续性；最高可以达到48TB的存储容量则可以满足绝大多数中端应用对于容量的苛刻需求。",
+        "quan": [
+            {
+                "quantity": "1600MB/s",
+                "value": "1600",
+                "unit": "MB/s"
+            },
+            {
+                "quantity": "4GB",
+                "quantity_span": [
+                    124,
+                    127
+                ],
+                "value": "4",
+                "value_span": [
+                    124,
+                    125
+                ],
+                "unit": "GB",
+                "unit_span": [
+                    125,
+                    127
+                ],
+                "unit_id": "GigaBYTE"
+            },
+            {
+                "quantity": "48TB",
+                "quantity_span": [
+                    151,
+                    155
+                ],
+                "value": "48",
+                "value_span": [
+                    151,
+                    153
+                ],
+                "unit": "TB",
+                "unit_span": [
+                    153,
+                    155
+                ],
+                "unit_id": "TeraBYTE"
+            }
+        ]
+    },
+    {
+        "text": "6.4英寸TFT LCD显示屏、32位CPU、200MHz速度、64M 动态内存、32M用户编程空间、4800mAH可充电。",
+        "quan": [
+            {
+                "quantity": "6.4英寸",
+                "value": "6.4",
+                "unit": "4英寸",
+                "unit_id": "MegaHZ"
+            },
+            {
+                "quantity": "32位",
+                "value": "32",
+                "unit": "位"
+            },
+            {
+                "quantity": "64M",
+                "value": "64",
+                "unit": "M"
+            },
+            {
+                "quantity": "32M",
+                "value": "32",
+                "unit": "M"
+            },
+            {
+                "quantity": "4800mAH",
+                "value": "4800",
+                "unit": "mAH"
+            },
+            {
+                "quantity": "200MHz",
+                "quantity_span": [
+                    23,
+                    29
+                ],
+                "value": "200",
+                "value_span": [
+                    23,
+                    26
+                ],
+                "unit": "MHz",
+                "unit_span": [
+                    26,
+                    29
+                ],
+                "unit_id": "MegaHZ"
+            }
+        ]
+    },
+    {
+        "text": "伊曼库雷塔女子学院成立于1928年，占地面积25英亩，位于纽约州汉堡，距水牛城25分钟车程。学校性质为纽约州天主教大学预备制私立女子学校，获得纽约州教育部评议委员会(New York State Education Dept. Board of Regents)和中部院校联盟(Middle States Association of Colleges and Secondary Schools)的...",
+        "quan": [
+            {
+                "quantity": "25英亩",
+                "quantity_span": [
+                    22,
+                    26
+                ],
+                "value": "25",
+                "value_span": [
+                    22,
+                    24
+                ],
+                "unit": "英亩",
+                "unit_span": [
+                    24,
+                    26
+                ],
+                "unit_id": "AC"
+            },
+            {
+                "quantity": "25分钟",
+                "quantity_span": [
+                    39,
+                    43
+                ],
+                "value": "25",
+                "value_span": [
+                    39,
+                    41
+                ],
+                "unit": "分钟",
+                "unit_span": [
+                    41,
+                    43
+                ],
+                "unit_id": "MIN"
+            }
+        ]
+    },
+    {
+        "text": "T252/253、T254/251次列车是中国铁路运行于中央直辖市天津至广东省会广州之间的一对特快旅客列车，现由北京铁路局天津客运段负责客运任务。列车使用25K型客车，沿津霸铁路、霸徐铁路和京广铁路运行，途经天津、河北、河南、湖北、湖南和广东五省一市，全程2332千米。其中天津站至广州站运行27小时2分，使用车次为T252/253次；广州站至天津站运行26小时36分，使用车次为T254/251次。...",
+        "quan": [
+            {
+                "quantity": "2332千米",
+                "quantity_span": [
+                    128,
+                    134
+                ],
+                "value": "2332",
+                "value_span": [
+                    128,
+                    132
+                ],
+                "unit": "千米",
+                "unit_span": [
+                    132,
+                    134
+                ],
+                "unit_id": "M"
+            }
+        ]
+    },
+    {
+        "text": "中兴U817是一款中兴品牌的4.5寸直板智能手机，操作系统是Android OS 4.0。",
+        "quan": [
+            {
+                "quantity": "4.5寸",
+                "quantity_span": [
+                    14,
+                    18
+                ],
+                "value": "4.5",
+                "value_span": [
+                    14,
+                    17
+                ],
+                "unit": "寸",
+                "unit_span": [
+                    17,
+                    18
+                ],
+                "unit_id": "CU_L_CUN"
+            }
+        ]
+    },
+    {
+        "text": "乔田电力灌溉总站前身为杨村电灌站，兴建于1973年，1981年更名乔田机电灌溉总站，坐落在铜城镇乔田村。乔田电灌总站下设6个分站，即：杨村站、上坝一级站、上坝二级站、上坝三级站、金塘站、青墩站和一个小（Ⅰ）型水库（即乔田水库）。乔田电灌总站，总装机2147千瓦（17台套）最大提水流量10.19立方米每秒，正常年景灌溉3.5万亩，大旱年景逾4万亩，灌溉三镇一乡（铜城镇、大通镇、杨村镇、湖滨乡）。",
+        "quan": [
+            {
+                "quantity": "2147千瓦",
+                "quantity_span": [
+                    124,
+                    130
+                ],
+                "value": "2147",
+                "value_span": [
+                    124,
+                    128
+                ],
+                "unit": "千瓦",
+                "unit_span": [
+                    128,
+                    130
+                ],
+                "unit_id": "W"
+            },
+            {
+                "quantity": "10.19立方米每秒",
+                "quantity_span": [
+                    142,
+                    152
+                ],
+                "value": "10.19",
+                "value_span": [
+                    142,
+                    147
+                ],
+                "unit": "立方米每秒",
+                "unit_span": [
+                    147,
+                    152
+                ],
+                "unit_id": "M3-PER-SEC"
+            },
+            {
+                "quantity": "3.5万亩",
+                "quantity_span": [
+                    142,
+                    152
+                ],
+                "value": "3.5万",
+                "value_span": [
+                    142,
+                    147
+                ],
+                "unit": "亩",
+                "unit_span": [
+                    147,
+                    152
+                ],
+                "unit_id": "M3-PER-SEC"
+            },
+            {
+                "quantity": "4万亩",
+                "quantity_span": [
+                    142,
+                    152
+                ],
+                "value": "4万",
+                "value_span": [
+                    142,
+                    147
+                ],
+                "unit": "亩",
+                "unit_span": [
+                    147,
+                    152
+                ],
+                "unit_id": "M3-PER-SEC"
+            }
+        ]
+    },
+    {
+        "text": "摩托罗拉A1890是摩托罗拉为中国电信量身定制一款具备GSM/CDMA双网双模的新款手写PDA手机，该机内嵌了运行频率312MHz的Intel XScale处理器，强劲的系统动力可以稳定的进行各种操作，机身自带8M动态内存，用户还可通过MicroSD卡扩展容量。",
+        "quan": [
+            {
+                "quantity": "312MHz",
+                "quantity_span": [
+                    59,
+                    65
+                ],
+                "value": "312",
+                "value_span": [
+                    59,
+                    62
+                ],
+                "unit": "MHz",
+                "unit_span": [
+                    62,
+                    65
+                ],
+                "unit_id": "MegaHZ"
+            }
+        ]
+    },
+    {
+        "text": "一拖（洛阳）建工机械有限公司是中国一拖集团股份有限公司下属的独立法人子公司，是以生产中小型（0.25～12T）压路机为主的专业生产厂",
+        "quan": [
+            {
+                "quantity": "0.25～12T",
+                "quantity_span": [
+                    51,
+                    54
+                ],
+                "value": "0.25～12",
+                "value_span": [
+                    51,
+                    53
+                ],
+                "unit": "T",
+                "unit_span": [
+                    53,
+                    54
+                ],
+                "unit_id": "T"
+            }
+        ]
+    },
+    {
+        "text": "该行政村隶属 河北省直管市定州市北城区 （市、区） 地处 城区北，距 市政府政府所在地2 公里，到城区道路为 路，交通方便，距（市、区） 2公里。东邻唐河 ，南邻主城区 ，西邻G107国道 ，北邻唐城村 。辖 1 个大队，9个生产队。现有 1100 户，人口约3800人，以农业户口为主。",
+        "quan": [
+            {
+                "quantity": "2公里",
+                "quantity_span": [
+                    69,
+                    72
+                ],
+                "value": "2",
+                "value_span": [
+                    69,
+                    70
+                ],
+                "unit": "公里",
+                "unit_span": [
+                    70,
+                    72
+                ],
+                "unit_id": "KiloM"
+            }
+        ]
+    },
+    {
+        "text": "韦门特里岛Vementry，,是在苏格兰设得兰群岛，马克尔岛西南，位于60°19′46″N 1°27′47″W。面积370公顷（1.43平方英里），（295英尺）。有农民在岛上牧羊。无人居住。",
+        "quan": [
+            {
+                "quantity": "370公顷",
+                "quantity_span": [
+                    58,
+                    63
+                ],
+                "value": "370",
+                "value_span": [
+                    58,
+                    61
+                ],
+                "unit": "公顷",
+                "unit_span": [
+                    61,
+                    63
+                ],
+                "unit_id": "HA"
+            },
+            {
+                "quantity": "1.43平方英里",
+                "quantity_span": [
+                    64,
+                    72
+                ],
+                "value": "1.43",
+                "value_span": [
+                    64,
+                    68
+                ],
+                "unit": "平方英里",
+                "unit_span": [
+                    68,
+                    72
+                ],
+                "unit_id": "MI2"
+            },
+            {
+                "quantity": "295英尺",
+                "quantity_span": [
+                    75,
+                    80
+                ],
+                "value": "295",
+                "value_span": [
+                    75,
+                    78
+                ],
+                "unit": "英尺",
+                "unit_span": [
+                    78,
+                    80
+                ],
+                "unit_id": "FT"
+            }
+        ]
+    },
+    {
+        "text": "方太CXW-169-JX01BE 侧吸式收油烟机，最大风压为190Pa。",
+        "quan": [
+            {
+                "quantity": "190Pa",
+                "quantity_span": [
+                    30,
+                    35
+                ],
+                "value": "190",
+                "value_span": [
+                    30,
+                    33
+                ],
+                "unit": "Pa",
+                "unit_span": [
+                    33,
+                    35
+                ],
+                "unit_id": "PA"
+            }
+        ]
+    },
+    {
+        "text": "pH计是由传感器和二次表两部分组成。可配三复合或两复合电极，以满足各种使用场所。配上纯水和超纯水电极，可适用于电导率小于3μs/cm的水质（如化学补给水、饱和蒸气、凝结水等）的pH值测量。",
+        "quan": [
+            {
+                "quantity": "3μs/cm",
+                "value": "3",
+                "unit": "μs/cm",
+                "unit_id": "MicroSEC-PER-CentiM"
+            }
+        ]
+    },
+    {
+        "text": "波音777-200是波音777家族中第一个机型，属于面向A型市场（航程大约能横越美国内陆为3,900至5,200海里）开发的型号。采用普惠PW4000、通用电气GE90或劳斯莱斯Trent 800发动机，推力超过74000磅力，最大起飞重量由505,000磅至545,000磅，最大航程达9650公里。标准三级典型座位数量305，最大座位数量440。",
+        "quan": [
+            {
+                "quantity": "3,900至5,200海里",
+                "quantity_span": [
+                    53,
+                    58
+                ],
+                "value": "3,900至5,200",
+                "value_span": [
+                    53,
+                    56
+                ],
+                "unit": "海里",
+                "unit_span": [
+                    56,
+                    58
+                ],
+                "unit_id": "MI_N"
+            },
+            {
+                "quantity": "74000磅力",
+                "quantity_span": [
+                    106,
+                    113
+                ],
+                "value": "74000",
+                "value_span": [
+                    106,
+                    111
+                ],
+                "unit": "磅力",
+                "unit_span": [
+                    111,
+                    113
+                ],
+                "unit_id": "LB_F"
+            },
+            {
+                "quantity": "505,000磅",
+                "quantity_span": [
+                    125,
+                    129
+                ],
+                "value": "505,000",
+                "value_span": [
+                    125,
+                    128
+                ],
+                "unit": "磅",
+                "unit_span": [
+                    128,
+                    129
+                ],
+                "unit_id": "LB"
+            },
+            {
+                "quantity": "545,000磅",
+                "quantity_span": [
+                    134,
+                    138
+                ],
+                "value": "545,000",
+                "value_span": [
+                    134,
+                    137
+                ],
+                "unit": "磅",
+                "unit_span": [
+                    137,
+                    138
+                ],
+                "unit_id": "LB"
+            },
+            {
+                "quantity": "9650公里",
+                "quantity_span": [
+                    144,
+                    150
+                ],
+                "value": "9650",
+                "value_span": [
+                    144,
+                    148
+                ],
+                "unit": "公里",
+                "unit_span": [
+                    148,
+                    150
+                ],
+                "unit_id": "KiloM"
+            }
+        ]
+    },
+    {
+        "text": "帝视尼双路录音盒 DSN-R02是一款电话录音盒，数据速率为64kbps。",
+        "quan": [
+            {
+                "quantity": "64kbps",
+                "quantity_span": [
+                    30,
+                    36
+                ],
+                "value": "64",
+                "value_span": [
+                    30,
+                    32
+                ],
+                "unit": "kbps",
+                "unit_span": [
+                    32,
+                    36
+                ],
+                "unit_id": "KiloBYTE-PER-SEC"
+            }
+        ]
+    },
+    {
+        "text": "三星LA40R51B是一款平板电视，屏幕尺寸为40英寸，响应时间为8ms。",
+        "quan": [
+            {
+                "quantity": "40英寸",
+                "quantity_span": [
+                    23,
+                    27
+                ],
+                "value": "40",
+                "value_span": [
+                    23,
+                    25
+                ],
+                "unit": "英寸",
+                "unit_span": [
+                    25,
+                    27
+                ],
+                "unit_id": "IN"
+            },
+            {
+                "quantity": "8ms",
+                "quantity_span": [
+                    33,
+                    36
+                ],
+                "value": "8",
+                "value_span": [
+                    33,
+                    34
+                ],
+                "unit": "ms",
+                "unit_span": [
+                    34,
+                    36
+                ],
+                "unit_id": "MilliSEC"
+            }
+        ]
+    },
+    {
+        "text": "翁方纲行书七言联是中国清代的书法作品，尺寸188.5×36.5cm×2",
+        "quan": [
+            {
+                "quantity": "36.5cm",
+                "quantity_span": [
+                    27,
+                    33
+                ],
+                "value": "36.5",
+                "value_span": [
+                    27,
+                    31
+                ],
+                "unit": "cm",
+                "unit_span": [
+                    31,
+                    33
+                ],
+                "unit_id": "CentiM"
+            }
+        ]
+    },
+    {
+        "text": "7、泄漏电流小于0.5mA。本产品应在指定电压下使用。部分地区日夜间电压变动较大本公司建议使用变压器以免影响产品的寿命。",
+        "quan": [
+            {
+                "quantity": "0.5mA",
+                "quantity_span": [
+                    8,
+                    13
+                ],
+                "value": "0.5",
+                "value_span": [
+                    8,
+                    11
+                ],
+                "unit": "mA",
+                "unit_span": [
+                    11,
+                    13
+                ],
+                "unit_id": "MilliA"
+            }
+        ]
+    },
+    {
+        "text": "飞鸟FL291是飞鸟品牌下的一款热塑封机器，塑封速度是300mm/min，功率为260W。",
+        "quan": [
+            {
+                "quantity": "300mm/min",
+                "quantity_span": [
+                    27,
+                    36
+                ],
+                "value": "300",
+                "value_span": [
+                    27,
+                    30
+                ],
+                "unit": "mm/min",
+                "unit_span": [
+                    30,
+                    36
+                ],
+                "unit_id": "MilliM-PER-MIN"
+            },
+            {
+                "quantity": "260W",
+                "quantity_span": [
+                    40,
+                    44
+                ],
+                "value": "260",
+                "value_span": [
+                    40,
+                    43
+                ],
+                "unit": "W",
+                "unit_span": [
+                    43,
+                    44
+                ],
+                "unit_id": "W"
+            }
+        ]
+    },
+    {
+        "text": "三号坦克，是在1935年希特勒下令研制一种15吨的新型坦克。研制人员将一种新型的装甲车装备了两挺MG34机枪和37mm或50mm火炮后改装为坦克。古德里安为新组建的装甲师装备了大量的该型坦克，为以后的德军坦克打下了基础，在坦克发展史上起到了重要的作用。三号坦克是战争初期德军闪电战中的主力突击坦克，伴随着德军征服了法国。但随着T-34等更强的盟军坦克的诞生，也宣布了三号坦克的停产。",
+        "quan": [
+            {
+                "quantity": "15吨",
+                "quantity_span": [
+                    21,
+                    24
+                ],
+                "value": "15",
+                "value_span": [
+                    21,
+                    23
+                ],
+                "unit": "吨",
+                "unit_span": [
+                    23,
+                    24
+                ],
+                "unit_id": "TONNE"
+            },
+            {
+                "quantity": "37mm",
+                "quantity_span": [
+                    55,
+                    59
+                ],
+                "value": "37",
+                "value_span": [
+                    55,
+                    57
+                ],
+                "unit": "mm",
+                "unit_span": [
+                    57,
+                    59
+                ],
+                "unit_id": "MilliM"
+            },
+            {
+                "quantity": "50mm",
+                "quantity_span": [
+                    60,
+                    64
+                ],
+                "value": "50",
+                "value_span": [
+                    60,
+                    62
+                ],
+                "unit": "mm",
+                "unit_span": [
+                    62,
+                    64
+                ],
+                "unit_id": "MilliM"
+            }
+        ]
+    },
+    {
+        "text": "今见秦半两钱大小轻重不一，钱径一般3.2-3.4厘米，重8克左右。钱文突起而狭长，略具弧形。",
+        "quan": [
+            {
+                "quantity": "3.2-3.4厘米",
+                "value": "3.2-3.4",
+                "unit": "厘米",
+                "unit_id": "CentiM"
+            },
+            {
+                "quantity": "8克",
+                "quantity_span": [
+                    177,
+                    179
+                ],
+                "value": "8",
+                "value_span": [
+                    177,
+                    178
+                ],
+                "unit": "克",
+                "unit_span": [
+                    178,
+                    179
+                ],
+                "unit_id": "GM"
+            }
+        ]
+    },
+    {
+        "text": "ZCT型无压差电磁阀采用反冲式结构，它具有一次开阀和二次开阀的特点。电磁阀处于闭状态，当电磁线圈通电，产生磁场吸起动铁芯，打开阀塞导阀口，使阀塞上、下腔产生压力差，将阀塞向上移动，电磁阀处于开状态。当介质压力，压差小于0.05MPa（甚至为零）时、动铁芯直接带动阀塞，打开主阀口，电磁阀也可呈通路。断电时，电磁阀靠复位弹簧，自重和压力差关闭主阀口，电磁阀呈闭状态。ZCT系列不锈钢电磁阀阀体和主要部件...",
+        "quan": [
+            {
+                "quantity": "0.05MPa",
+                "quantity_span": [
+                    109,
+                    116
+                ],
+                "value": "0.05",
+                "value_span": [
+                    109,
+                    113
+                ],
+                "unit": "MPa",
+                "unit_span": [
+                    113,
+                    116
+                ],
+                "unit_id": "MegaPA"
+            }
+        ]
+    },
+    {
+        "text": "雅加达缩影公园是世界第一个介绍国土知识的缩影公园。1975 年正式开放，公园坐落在印度尼西亚雅加达市的东面，离市中心约13千米，占地面积67公顷左右。",
+        "quan": [
+            {
+                "quantity": "13千米",
+                "quantity_span": [
+                    59,
+                    63
+                ],
+                "value": "13",
+                "value_span": [
+                    59,
+                    61
+                ],
+                "unit": "千米",
+                "unit_span": [
+                    61,
+                    63
+                ],
+                "unit_id": "M"
+            },
+            {
+                "quantity": "67公顷",
+                "quantity_span": [
+                    68,
+                    72
+                ],
+                "value": "67",
+                "value_span": [
+                    68,
+                    70
+                ],
+                "unit": "公顷",
+                "unit_span": [
+                    70,
+                    72
+                ],
+                "unit_id": "HA"
+            }
+        ]
+    },
+    {
+        "text": "菊城无籽3号晚熟三倍体无籽品种，全生育期104天，果实发育期36天。植株生长势强，苗期长势较强，分枝性强；叶色深绿，叶长25 cm、宽25 cm，大小中等，叶形掌状深裂；主蔓长 4.43 m，主蔓粗0.8 cm；第一雌花着生节位在7节前后，雌花间隔6?7节；坐果容易，果实高圆，果形指数1.03，果皮黑色上覆暗条带，皮厚1.4cm，皮韧，单瓜重7 kg；无裂果空心，肉红色、质地脆；种子短卵圆、黄褐色",
+        "quan": [
+            {
+                "quantity": "25 cm",
+                "value": "25",
+                "unit": "cm",
+                "unit_id": "CentiM"
+            },
+            {
+                "quantity": "4.43 m",
+                "value": "4.43",
+                "unit": "m",
+                "unit_id": "M"
+            },
+            {
+                "quantity": "0.8 cm",
+                "value": "0.8",
+                "unit": "cm",
+                "unit_id": "CentiM"
+            },
+            {
+                "quantity": "1.4cm",
+                "quantity_span": [
+                    160,
+                    165
+                ],
+                "value": "1.4",
+                "value_span": [
+                    160,
+                    163
+                ],
+                "unit": "cm",
+                "unit_span": [
+                    163,
+                    165
+                ],
+                "unit_id": "CentiM"
+            },
+            {
+                "quantity": "7 kg",
+                "value": "7",
+                "unit": "kg",
+                "unit_id": "KiloGM"
+            }
+        ]
+    },
+    {
+        "text": "处方：香附100克，木贼50克，莪术100克，大青叶、板蓝根各60克。 用法：上药加水2000毫升，浸泡20分钟后煎沸5～10分钟 ，取汁待凉。以药液用力搽洗患处，再浸泡患处30分钟。一剂可用4天，重复使用，10天为一疗程。",
+        "quan": [
+            {
+                "quantity": "100克",
+                "quantity_span": [
+                    5,
+                    9
+                ],
+                "value": "100",
+                "value_span": [
+                    5,
+                    8
+                ],
+                "unit": "克",
+                "unit_span": [
+                    8,
+                    9
+                ],
+                "unit_id": "GM"
+            },
+            {
+                "quantity": "50克",
+                "quantity_span": [
+                    12,
+                    15
+                ],
+                "value": "50",
+                "value_span": [
+                    12,
+                    14
+                ],
+                "unit": "克",
+                "unit_span": [
+                    14,
+                    15
+                ],
+                "unit_id": "GM"
+            },
+            {
+                "quantity": "100克",
+                "quantity_span": [
+                    18,
+                    22
+                ],
+                "value": "100",
+                "value_span": [
+                    18,
+                    21
+                ],
+                "unit": "克",
+                "unit_span": [
+                    21,
+                    22
+                ],
+                "unit_id": "GM"
+            },
+            {
+                "quantity": "60克",
+                "quantity_span": [
+                    31,
+                    34
+                ],
+                "value": "60",
+                "value_span": [
+                    31,
+                    33
+                ],
+                "unit": "克",
+                "unit_span": [
+                    33,
+                    34
+                ],
+                "unit_id": "GM"
+            },
+            {
+                "quantity": "2000毫升",
+                "quantity_span": [
+                    43,
+                    49
+                ],
+                "value": "2000",
+                "value_span": [
+                    43,
+                    47
+                ],
+                "unit": "毫升",
+                "unit_span": [
+                    47,
+                    49
+                ],
+                "unit_id": "MilliL"
+            },
+            {
+                "quantity": "20分钟",
+                "quantity_span": [
+                    52,
+                    56
+                ],
+                "value": "20",
+                "value_span": [
+                    52,
+                    54
+                ],
+                "unit": "分钟",
+                "unit_span": [
+                    54,
+                    56
+                ],
+                "unit_id": "MIN"
+            },
+            {
+                "quantity": "10分钟",
+                "quantity_span": [
+                    61,
+                    65
+                ],
+                "value": "10",
+                "value_span": [
+                    61,
+                    63
+                ],
+                "unit": "分钟",
+                "unit_span": [
+                    63,
+                    65
+                ],
+                "unit_id": "MIN"
+            },
+            {
+                "quantity": "30分钟",
+                "quantity_span": [
+                    87,
+                    91
+                ],
+                "value": "30",
+                "value_span": [
+                    87,
+                    89
+                ],
+                "unit": "分钟",
+                "unit_span": [
+                    89,
+                    91
+                ],
+                "unit_id": "MIN"
+            }
+        ]
+    },
+    {
+        "text": "810水下环氧固化剂属改性胺类固化剂，外观为浅棕色半透明黏稠液体，密度(20℃)1.056～1.150g/cm³。凝固点&lt;-14℃。胺值350~410mgKOH/g。黏度(25℃)3000～6000mPa·S。溶于乙醇、丙酮，微溶于水。",
+        "quan": [
+            {
+                "quantity": "20℃",
+                "value": "20",
+                "unit": "℃"
+            },
+            {
+                "quantity": "-14℃",
+                "value": "-14",
+                "unit": "℃"
+            },
+            {
+                "quantity": "350~410mgKOH/g",
+                "value": "350~410",
+                "unit": "mgKOH/g"
+            },
+            {
+                "quantity": "25℃",
+                "value": "25",
+                "unit": "℃"
+            },
+            {
+                "quantity": "3000～6000mPa·S",
+                "value": "3000～6000",
+                "unit": "mPa·S"
+            },
+            {
+                "quantity": "1.056～1.150g/cm³",
+                "value": "1.056～1.150",
+                "unit": "g/cm³"
+            }
+        ]
+    },
+    {
+        "text": "AX系列的全部型号均配备了新的X-ART高音单元，它是基于原型ART高音单元传奇的加速带(Accelerating Ribbon)技术。较之原型的ART高音单元X-ART的效率提高了4dB，最大声压级提高了3dB，频率响应的上限则提高到了50kHz。",
+        "quan": [
+            {
+                "quantity": "4dB",
+                "quantity_span": [
+                    91,
+                    94
+                ],
+                "value": "4",
+                "value_span": [
+                    91,
+                    92
+                ],
+                "unit": "dB",
+                "unit_span": [
+                    92,
+                    94
+                ],
+                "unit_id": "DeciB"
+            },
+            {
+                "quantity": "3dB",
+                "quantity_span": [
+                    103,
+                    106
+                ],
+                "value": "3",
+                "value_span": [
+                    103,
+                    104
+                ],
+                "unit": "dB",
+                "unit_span": [
+                    104,
+                    106
+                ],
+                "unit_id": "DeciB"
+            },
+            {
+                "quantity": "50kHz",
+                "quantity_span": [
+                    119,
+                    124
+                ],
+                "value": "50",
+                "value_span": [
+                    119,
+                    121
+                ],
+                "unit": "kHz",
+                "unit_span": [
+                    121,
+                    124
+                ],
+                "unit_id": "KiloHZ"
+            }
+        ]
+    },
+    {
+        "text": "金立S5.5是金立于2014年2月19日在深圳OCT创意展示中心发布的金立ELIFE S系列首款旗舰机。作为首款ELIFE S系列手机，S5.5机身厚度5.55mm，搭载Cortex A7架构的八核处理器，2GBRAM+16GB ROM组合，5.0英寸三星Super AMOLED 1080P屏幕，前置500万+后置1300万的拍照组合，全新设计的Amigo2.0系统。具有蓝、粉、黑、白、紫5款色彩...",
+        "quan": [
+            {
+                "quantity": "5.55mm",
+                "quantity_span": [
+                    76,
+                    82
+                ],
+                "value": "5.55",
+                "value_span": [
+                    76,
+                    80
+                ],
+                "unit": "mm",
+                "unit_span": [
+                    80,
+                    82
+                ],
+                "unit_id": "MilliM"
+            },
+            {
+                "quantity": "5.0英寸",
+                "quantity_span": [
+                    121,
+                    126
+                ],
+                "value": "5.0",
+                "value_span": [
+                    121,
+                    124
+                ],
+                "unit": "英寸",
+                "unit_span": [
+                    124,
+                    126
+                ],
+                "unit_id": "IN"
+            },
+            {
+                "quantity": "16GB",
+                "value": "16",
+                "value_span": [
+                    141,
+                    145
+                ],
+                "unit": "GB s"
+            }
+        ]
+    },
+    {
+        "text": "KHSYS D2120是一款磁盘阵列，最大存储容量是40TB，平均传输率为3.0Gb/S，系统支持windows、Mac os X、linux 32-bi。",
+        "quan": [
+            {
+                "quantity": "40TB",
+                "quantity_span": [
+                    26,
+                    30
+                ],
+                "value": "40",
+                "value_span": [
+                    26,
+                    28
+                ],
+                "unit": "TB",
+                "unit_span": [
+                    28,
+                    30
+                ],
+                "unit_id": "TeraBYTE"
+            },
+            {
+                "quantity": "3.0Gb/S",
+                "value": "3.0",
+                "unit": "Gb/S"
+            }
+        ]
+    },
+    {
+        "text": "博尼BN-130Q/SA-N是一款电子产品，视频输出是CVBS：1.0Vp-p, 75Ω composite。",
+        "quan": [
+            {
+                "quantity": "1.0V",
+                "value": "1.0",
+                "unit": "V",
+                "unit_id": "V"
+            },
+            {
+                "quantity": "75Ω",
+                "quantity_span": [
+                    41,
+                    44
+                ],
+                "value": "75",
+                "value_span": [
+                    41,
+                    43
+                ],
+                "unit": "Ω",
+                "unit_span": [
+                    43,
+                    44
+                ],
+                "unit_id": "OHM"
+            }
+        ]
+    },
+    {
+        "text": "2S19型自行榴弹炮（俄文：2С19 самоходная гаубица Читать полностью，英文：2S19 self-propelled howitzer，绰号：Msta-S，译名：姆斯塔S），是苏联20世纪80年代末期研制装备的一种152毫米口径履带式自行榴弹炮。该炮在T-80坦克底盘基础上研制，装备152毫米52倍口径榴弹炮，射程达30公里，配有自动装弹机。该炮射速高、机动性...",
+        "quan": [
+            {
+                "quantity": "152毫米",
+                "quantity_span": [
+                    126,
+                    131
+                ],
+                "value": "152",
+                "value_span": [
+                    126,
+                    129
+                ],
+                "unit": "毫米",
+                "unit_span": [
+                    129,
+                    131
+                ],
+                "unit_id": "MilliM"
+            },
+            {
+                "quantity": "152毫",
+                "quantity_span": [
+                    161,
+                    165
+                ],
+                "value": "152",
+                "value_span": [
+                    161,
+                    164
+                ],
+                "unit": "毫",
+                "unit_span": [
+                    164,
+                    165
+                ],
+                "unit_id": "CU_M_HAO"
+            },
+            {
+                "quantity": "30公里",
+                "quantity_span": [
+                    178,
+                    182
+                ],
+                "value": "30",
+                "value_span": [
+                    178,
+                    180
+                ],
+                "unit": "公里",
+                "unit_span": [
+                    180,
+                    182
+                ],
+                "unit_id": "KiloM"
+            }
+        ]
+    },
+    {
+        "text": "萝卜鱼滑木耳煲是一道美食，主料为木耳6朵，萝卜1斤，鱼滑200克，清水400克，胡椒粉适量，大地鱼粉适量，姜2片",
+        "quan": [
+            {
+                "quantity": "1斤",
+                "quantity_span": [
+                    23,
+                    25
+                ],
+                "value": "1",
+                "value_span": [
+                    23,
+                    24
+                ],
+                "unit": "斤",
+                "unit_span": [
+                    24,
+                    25
+                ],
+                "unit_id": "CU_M_JIN"
+            },
+            {
+                "quantity": "200克",
+                "quantity_span": [
+                    28,
+                    32
+                ],
+                "value": "200",
+                "value_span": [
+                    28,
+                    31
+                ],
+                "unit": "克",
+                "unit_span": [
+                    31,
+                    32
+                ],
+                "unit_id": "GM"
+            },
+            {
+                "quantity": "400克",
+                "quantity_span": [
+                    35,
+                    39
+                ],
+                "value": "400",
+                "value_span": [
+                    35,
+                    38
+                ],
+                "unit": "克",
+                "unit_span": [
+                    38,
+                    39
+                ],
+                "unit_id": "GM"
+            }
+        ]
+    },
+    {
+        "text": "迈斯特中学坐落在市郊地区，建立于1877年，占地96英亩，距离纽约市中心仅35分钟。迈斯特中学由40%的住宿生和60%的走读生组成。迈斯特中学的教育目标是为学生提供富有挑战力的学术环境，一个世纪以来，我们一直鼓励有批判性的，富有创造力的，独立的思考能力，并培养学生终生学习的热情。",
+        "quan": [
+            {
+                "quantity": "96英亩",
+                "quantity_span": [
+                    24,
+                    28
+                ],
+                "value": "96",
+                "value_span": [
+                    24,
+                    26
+                ],
+                "unit": "英亩",
+                "unit_span": [
+                    26,
+                    28
+                ],
+                "unit_id": "AC"
+            },
+            {
+                "quantity": "35分钟",
+                "quantity_span": [
+                    37,
+                    41
+                ],
+                "value": "35",
+                "value_span": [
+                    37,
+                    39
+                ],
+                "unit": "分钟",
+                "unit_span": [
+                    39,
+                    41
+                ],
+                "unit_id": "MIN"
+            },
+            {
+                "quantity": "40%",
+                "quantity_span": [
+                    48,
+                    51
+                ],
+                "value": "40",
+                "value_span": [
+                    48,
+                    50
+                ],
+                "unit": "%",
+                "unit_span": [
+                    50,
+                    51
+                ],
+                "unit_id": "PERCENT"
+            },
+            {
+                "quantity": "60%",
+                "quantity_span": [
+                    56,
+                    59
+                ],
+                "value": "60",
+                "value_span": [
+                    56,
+                    58
+                ],
+                "unit": "%",
+                "unit_span": [
+                    58,
+                    59
+                ],
+                "unit_id": "PERCENT"
+            }
+        ]
+    }
+]

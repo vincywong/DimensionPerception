@@ -1,0 +1,102 @@
+[
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“rad/s2”是可以比较？ Options: (A)每分钟心跳次数 (B)厘米每平方秒 (C)度每平方秒 (D)btu/ft2",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Radian per Square Second\"? Options: (A)Heart Beats per Minute (B)cm/s2 (C)Degree per Square Second (D)BTU per Square Foot",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“quad”是可以比较？ Options: (A)英国热量单位英尺 (B)微焦 (C)btu/°F (D)达因",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Quad\"? Options: (A)BTU Foot (B)Micro Joule (C)BTU (IT) per Degree Fahrenheit (D)Dyne",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“帕秒”是可以比较？ Options: (A)泊 (B)标准大气压 (C)旦尼尔 (D)达因秒每厘米",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Pascal Second\"? Options: (A)P (B)Standard Atmosphere (C)Denier (D)Dyne Second Per Centimetre",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“桶(英式)”是可以比较？ Options: (A)dl/g (B)四次英寸 (C)cm3/K (D)总吨位",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Barrel (UK Petroleum)\"? Options: (A)dl/g (B)Quartic Inch (C)cm3/K (D)Gross Tonnage",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“英尺磅每平方英尺”是可以比较？ Options: (A)英国热量单位每平方英尺 (B)达因 (C)dyn·s/cm (D)平方千克每平方秒",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Foot Pound per Square Foot\"? Options: (A)btu/ft2 (B)Dyne (C)Dyne Second Per Centimetre (D)Square Kilograms per square second",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“毫戈”是可以比较？ Options: (A)btu/lbm·°F (B)cm/s2 (C)erg/g·s (D)格雷",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Milligray\"? Options: (A)btu/lbm·°F (B)Centimetre per Square Second (C)Erg Per Gram Second (D)Gray",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“立方英里”是可以比较？ Options: (A)cm3/K (B)桶(英式)每天 (C)四次英寸 (D)桶(美式)",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Cubic Mile\"? Options: (A)Cubic Centimetre Per Kelvin (B)Barrel (UK Petroleum) Per Day (C)Quartic Inch (D)Barrel (US)",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“多明尼加共和国的比索”是可以比较？ Options: (A)°C (B)纳摩尔每微摩尔每天 (C)kV (D)洛蒂",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Dominican Peso\"? Options: (A)°C (B)Nanomoles per micromole per day (C)Kilovolt (D)Loti",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“每月”是可以比较？ Options: (A)°C/h (B)数字每平方厘米每一千年 (C)次每秒 (D)°/s2",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Reciprocal Month\"? Options: (A)°C/h (B)Number per square centimetre per thousand years (C)Counts per second (D)Degree per Square Second",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“每米纳米”是可以比较？ Options: (A)摩尔每平方米 (B)Bq·s/m3 (C)安培每厘米 (D)纳摩尔每微摩尔",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Reciprocal metre per nanometre\"? Options: (A)Moles per square metre (B)Bq·s/m3 (C)Ampere Per Centimetre (D)Nanomoles per micromole",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“平方米每克属于干的沉淀物”是可以比较？ Options: (A)dl/g (B)平方角摄氏度每秒 (C)平方米每千克 (D)英亩",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Square metres per gram of dry sediment\"? Options: (A)Decilitre Per Gram (B)Square Degrees Celsius per second (C)Square Metre per Kilogram (D)Acre",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“摩尔摄氏度”是可以比较？ Options: (A)mol·K (B)分升每克 (C)度 (D)IU",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"mol·°C\"? Options: (A)Mole Kelvin (B)dl/g (C)Degree Celsius (D)International Unit",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“托”是可以比较？ Options: (A)焦耳每四次的米 (B)厘泊 (C)千磅力每平方英寸 (D)巴每开尔文",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Torr\"? Options: (A)Joule per Quartic Metre (B)cP (C)Kilopound Force Per Square Inch (D)bar/K",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“数字每平方米”是可以比较？ Options: (A)克每平方厘米 (B)Bq·s/m3 (C)每平方米 (D)平方厘米每立方厘米",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Number per square metre\"? Options: (A)g/cm2 (B)Bq·s/m3 (C)m^{-2} (D)Square centimetres per cubic centimetre",
+        "ans": "(C)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“W”是可以比较？ Options: (A)千伏特 (B)W/K (C)尔格每克秒 (D)MJ/s",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"W\"? Options: (A)kV (B)Watt per Kelvin (C)erg/g·s (D)Megajoule Per Second",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“kV”是可以比较？ Options: (A)毫伏 (B)mV/min (C)贝尔 (D)V/K",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"kV\"? Options: (A)Millivolt (B)Millivolt Per Minute (C)Bel (D)Volt per Kelvin",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“盎司每小时”是可以比较？ Options: (A)oz/min (B)英亩英尺 (C)m3/C (D)平方厘米每秒",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"Ounce (UK Fluid) Per Hour\"? Options: (A)oz/min (B)Acre Foot (C)Cubic Metre per Coulomb (D)Square centimetres per second",
+        "ans": "(A)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“kW”是可以比较？ Options: (A)尔格每克秒 (B)纳瓦特 (C)千伏特 (D)瓦特每平方米每相反的米每球面度",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"kW\"? Options: (A)erg/g·s (B)nW (C)kV (D)W·m/m2·sr",
+        "ans": "(B)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“kcal/mol”是可以比较？ Options: (A)J·s/mol (B)J·m/mol (C)btu/mol·°F (D)焦耳每摩尔",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"kcal/mol\"? Options: (A)J·s/mol (B)Joule Metre per Mole (C)btu/mol·°F (D)Joule per Mole",
+        "ans": "(D)"
+    },
+    {
+        "question_zh": "请问以下4个数量中，哪个是与数量“yd2”是可以比较？ Options: (A)m2/g (B)安培平方米 (C)公顷 (D)平方英尺华氏度",
+        "question_en": "Which of the following 4 physical quantities is comparable to the physical quantity \"yd2\"? Options: (A)m2/g (B)Ampere Square Metre (C)Hectare (D)ft2·°F",
+        "ans": "(C)"
+    }
+]
